@@ -1,0 +1,67 @@
+Data Version: 2
+Crate Locations:
+  ultra:
+  - Hub|-408|9|219
+  - Hub|981|30|996
+  - world|-51|100|2
+  daily:
+  - Hub|-407|8|237
+  - Hub|961|30|1003
+  - world|-71|100|9
+  weekly:
+  - Hub|-407|8|230
+  - Hub|961|30|998
+  - world|-71|100|4
+  monthly:
+  - Hub|-400|8|223
+  - Hub|970|30|1012
+  - world|-62|100|18
+  mythical:
+  - Hub|-393|8|223
+  - Hub|975|30|1012
+  - world|-57|100|18
+  shadow:
+  - Hub|-411|9|222
+  - Hub|977|30|992
+  - world|-55|100|-2
+  spawner: []
+Claims:
+  e419983c-bb20-438d-b900-717f131a272f: []
+  3e771e3c-cc2b-4ef8-9906-7efc72e89306: []
+  9d0f09bf-8285-4a32-be21-eed067aee07b: []
+  159adc9b-e842-45c2-aaeb-ba0ed26b18c9: []
+  87c9ae39-97bb-4c6a-8dec-0a00cb47023b: []
+  010cd4af-f6ca-4831-8b75-91fb113e18d0:
+  - Weekly|1
+  - monthly|1
+  505484a4-3ce3-4826-8fcd-0b483b4b046e: []
+  299e328e-e1d0-416d-8ee0-c341fa0f9880:
+  - ultra|1999988920
+  e3c9c9f4-cd25-4cd3-b616-e51a43c2efd2:
+  - ultra|97696
+  ef11bfff-c439-4e28-b3c7-b7fc64c9bad9: []
+  72e0130d-bb1e-4df4-bae5-49e2b0b0efcd: []
+  7f47ce88-a1f7-45ef-abc7-a3b0f99e1810:
+  - shadow|1
+  - daily|1
+  - monthly|1
+  - weekly|1
+  - ultra|1
+  acf21bbb-1d38-452d-845d-10723c1b0e44:
+  - weekly|1
+  08f48dd7-8dec-4712-b766-bc4de29b159d:
+  - weekly|1
+  00ff44d1-4f32-4bc4-a5e5-9af04b6692e3:
+  - weekly|2
+  4ca9ab63-f01e-4131-818c-1362434e63d2:
+  - Daily|1
+  - shadow|2
+  - daily|1
+  - monthly|1
+  - Mythical|1
+  - Ultra|1
+  - weekly|5
+  - ultra|2
+  1742e7bb-f935-4b91-873e-3cd2faffaac1: []
+  bf0d2175-0e87-4bf0-8ef4-fb024a65db0b: []
+  fbc3fd13-311f-4282-badf-eff28962e615: []

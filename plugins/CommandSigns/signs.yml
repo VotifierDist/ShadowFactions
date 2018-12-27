@@ -1,0 +1,43 @@
+signs:
+  world,-74,99,12:
+    redstone: false
+    owner: UltraShowsYT
+    text:
+    - /Spawn
+    active: true
+    cooldowns: {}
+  world,4526,117,2138:
+    redstone: false
+    owner: DeekHD
+    text:
+    - /shop
+    active: true
+    cooldowns: {}
+  world,-75,99,10:
+    redstone: false
+    owner: UltraShowsYT
+    text:
+    - /Spawn
+    active: true
+    cooldowns: {}
+  world,-91,98,29:
+    redstone: false
+    owner: DeekHD
+    text:
+    - /ah
+    active: true
+    cooldowns: {}
+  world,-86,100,24:
+    redstone: false
+    owner: UltraShowsYT
+    text:
+    - /Wilderness
+    active: true
+    cooldowns: {}
+  world,4513,117,2138:
+    redstone: false
+    owner: DeekHD
+    text:
+    - /shop
+    active: true
+    cooldowns: {}

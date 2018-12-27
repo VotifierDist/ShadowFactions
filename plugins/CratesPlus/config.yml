@@ -1,0 +1,1936 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.5.1 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 0
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  Daily:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 1.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: GOLD
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: Daily Crate Sword
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-4
+        - DURABILITY-6
+        - KNOCKBACK-2
+        - FIRE_ASPECT-1
+        Lore:
+        - Only From Daily Crate!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Daily Crate Sword
+          lore:
+          - Only From Daily Crate!
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 6
+            KNOCKBACK: 2
+            FIRE_ASPECT: 1
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '6':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-10
+        - DURABILITY-10
+        - LOOT_BONUS_BLOCKS-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 5
+      '15':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-10
+        - DAMAGE_ALL-10
+        - DURABILITY-10
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+      '16':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-10
+        - DURABILITY-10
+        - LOOT_BONUS_BLOCKS-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 5
+  Ultra:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 1.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: DARK_BLUE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&6Daily Crate Key'
+        Amount: 8
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§6Daily§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Daily Crate Key
+          lore:
+          - §7Right-Click on a "§6Daily§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '3':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aWeekly Crate Key'
+        Amount: 4
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aWeekly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeekly Crate Key
+          lore:
+          - §7Right-Click on a "§aWeekly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '4':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&dMonthly Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§dMonthly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dMonthly Crate Key
+          lore:
+          - §7Right-Click on a "§dMonthly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '5':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&1Ultra Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§1Ultra§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §1Ultra Crate Key
+          lore:
+          - §7Right-Click on a "§1Ultra§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '6':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&4Mythical Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§4Mythical§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Mythical Crate Key
+          lore:
+          - §7Right-Click on a "§4Mythical§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '7':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: Ultra Crate Sword
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-16
+        - DURABILITY-16
+        - KNOCKBACK-3
+        - LOOT_BONUS_MOBS-16
+        Lore:
+        - Only From Ultra Crate!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ultra Crate Sword
+          lore:
+          - Only From Ultra Crate!
+          enchants:
+            DAMAGE_ALL: 16
+            DURABILITY: 16
+            KNOCKBACK: 3
+            LOOT_BONUS_MOBS: 16
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-40
+        - PROTECTION_ENVIRONMENTAL-40
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 40
+            PROTECTION_ENVIRONMENTAL: 40
+            LOOT_BONUS_BLOCKS: 20
+      '10':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-40
+        - DAMAGE_ALL-20
+        - PROTECTION_ENVIRONMENTAL-40
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 40
+            DAMAGE_ALL: 20
+            PROTECTION_ENVIRONMENTAL: 40
+            LOOT_BONUS_BLOCKS: 20
+      '11':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-40
+        - DIG_SPEED-40
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 40
+            DIG_SPEED: 40
+            LOOT_BONUS_BLOCKS: 20
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: Ultra Crate Helmet
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-40
+        - DURABILITY-40
+        - OXYGEN-5
+        - WATER_WORKER-5
+        - THORNS-10
+        Lore:
+        - Best Helmet - Ever!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ultra Crate Helmet
+          lore:
+          - Best Helmet - Ever!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 40
+            DURABILITY: 40
+            OXYGEN: 5
+            WATER_WORKER: 5
+            THORNS: 10
+      '13':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: Ultra Crate Chestplate
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-40
+        - DURABILITY-40
+        - THORNS-10
+        Lore:
+        - Best Chestplate - Ever!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ultra Crate Chestplate
+          lore:
+          - Best Chestplate - Ever!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 40
+            DURABILITY: 40
+            THORNS: 10
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: Ultra Crate Leggings
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-40
+        - DURABILITY-40
+        - THORNS-10
+        Lore:
+        - Best Leggings - Ever!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ultra Crate Leggings
+          lore:
+          - Best Leggings - Ever!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 40
+            DURABILITY: 40
+            THORNS: 10
+      '15':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: Ultra Crate Boots
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-40
+        - DEPTH_STRIDER-10
+        - PROTECTION_FALL-10
+        - DURABILITY-40
+        - THORNS-10
+        Lore:
+        - Best Boots - Ever!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ultra Crate Boots
+          lore:
+          - Best Boots - Ever!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 40
+            DEPTH_STRIDER: 10
+            PROTECTION_FALL: 10
+            DURABILITY: 40
+            THORNS: 10
+      '16':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '17':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&a&lBank Note'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - '§aAmount: §2$30000000'
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §a§lBank Note
+          lore:
+          - '§aAmount: §2$30000000'
+  Mythical:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 3.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: DARK_RED
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&6Daily Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§6Daily§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Daily Crate Key
+          lore:
+          - §7Right-Click on a "§6Daily§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '2':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aWeekly Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aWeekly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeekly Crate Key
+          lore:
+          - §7Right-Click on a "§aWeekly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '3':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&dMonthly Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§dMonthly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dMonthly Crate Key
+          lore:
+          - §7Right-Click on a "§dMonthly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '4':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&4Mythical Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§4Mythical§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Mythical Crate Key
+          lore:
+          - §7Right-Click on a "§4Mythical§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '5':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&1Ultra Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§1Ultra§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §1Ultra Crate Key
+          lore:
+          - §7Right-Click on a "§1Ultra§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '6':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-20
+        - DAMAGE_UNDEAD-3
+        - DAMAGE_ARTHROPODS-20
+        - DURABILITY-20
+        - KNOCKBACK-2
+        - FIRE_ASPECT-20
+        - LOOT_BONUS_MOBS-15
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 20
+            DAMAGE_UNDEAD: 3
+            DAMAGE_ARTHROPODS: 20
+            DURABILITY: 20
+            KNOCKBACK: 2
+            FIRE_ASPECT: 20
+            LOOT_BONUS_MOBS: 15
+      '11':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-30
+        - DURABILITY-30
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 30
+            DURABILITY: 30
+            LOOT_BONUS_BLOCKS: 20
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-30
+        - DAMAGE_ALL-15
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 30
+            DAMAGE_ALL: 15
+            DURABILITY: 30
+      '13':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-30
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 30
+            DURABILITY: 30
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-30
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 30
+            DURABILITY: 30
+      '15':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-30
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 30
+            DURABILITY: 30
+      '16':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-30
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 30
+            DURABILITY: 30
+      '17':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-30
+        - DURABILITY-30
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 30
+            DURABILITY: 30
+  Monthly:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 3.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: LIGHT_PURPLE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&dMonthly Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§dMonthly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dMonthly Crate Key
+          lore:
+          - §7Right-Click on a "§dMonthly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '2':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aWeekly Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aWeekly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeekly Crate Key
+          lore:
+          - §7Right-Click on a "§aWeekly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '3':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&6Daily Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§6Daily§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Daily Crate Key
+          lore:
+          - §7Right-Click on a "§6Daily§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '4':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&1Ultra Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§1Ultra§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §1Ultra Crate Key
+          lore:
+          - §7Right-Click on a "§1Ultra§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '5':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&4Mythical Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§4Mythical§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Mythical Crate Key
+          lore:
+          - §7Right-Click on a "§4Mythical§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '6':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 24
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-20
+        - DURABILITY-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 20
+            DURABILITY: 20
+      '11':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-20
+        - DURABILITY-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 20
+            DURABILITY: 20
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-20
+        - DURABILITY-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 20
+            DURABILITY: 20
+      '13':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-20
+        - DURABILITY-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 20
+            DURABILITY: 20
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: Monthly Crate Sword
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-15
+        - DAMAGE_ARTHROPODS-15
+        - DURABILITY-9
+        - KNOCKBACK-6
+        - FIRE_ASPECT-6
+        - LOOT_BONUS_MOBS-10
+        Lore:
+        - Only From Monthly Crate! - Mob Killer 3000!
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Monthly Crate Sword
+          lore:
+          - Only From Monthly Crate! - Mob Killer 3000!
+          enchants:
+            DAMAGE_ALL: 15
+            DAMAGE_ARTHROPODS: 15
+            DURABILITY: 9
+            KNOCKBACK: 6
+            FIRE_ASPECT: 6
+            LOOT_BONUS_MOBS: 10
+      '15':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-25
+        - DURABILITY-25
+        - LOOT_BONUS_BLOCKS-15
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 25
+            DURABILITY: 25
+            LOOT_BONUS_BLOCKS: 15
+      '16':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-25
+        - DAMAGE_ALL-15
+        - DURABILITY-25
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 25
+            DAMAGE_ALL: 15
+            DURABILITY: 25
+      '17':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-25
+        - DURABILITY-25
+        - LOOT_BONUS_BLOCKS-15
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 25
+            DURABILITY: 25
+            LOOT_BONUS_BLOCKS: 15
+  Weekly:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 3.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: GREEN
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&6Daily Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§6Daily§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Daily Crate Key
+          lore:
+          - §7Right-Click on a "§6Daily§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '2':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aWeekly Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aWeekly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeekly Crate Key
+          lore:
+          - §7Right-Click on a "§aWeekly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '3':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&dMonthly Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§dMonthly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dMonthly Crate Key
+          lore:
+          - §7Right-Click on a "§dMonthly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '4':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&4Mythical Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§4Mythical§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Mythical Crate Key
+          lore:
+          - §7Right-Click on a "§4Mythical§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '5':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 12
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: Weekly Crate Sword
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-10
+        - FIRE_ASPECT-10
+        Lore:
+        - Only From Monthly Crate! - OP Killer
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Weekly Crate Sword
+          lore:
+          - Only From Monthly Crate! - OP Killer
+          enchants:
+            DAMAGE_ALL: 10
+            FIRE_ASPECT: 10
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-20
+        - DURABILITY-20
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 20
+            DURABILITY: 20
+            LOOT_BONUS_BLOCKS: 20
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-20
+        - DAMAGE_ALL-20
+        - DURABILITY-20
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 20
+            DAMAGE_ALL: 20
+            DURABILITY: 20
+            LOOT_BONUS_BLOCKS: 20
+      '10':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-20
+        - DURABILITY-20
+        - LOOT_BONUS_BLOCKS-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 20
+            DURABILITY: 20
+            LOOT_BONUS_BLOCKS: 20
+      '11':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '13':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+  Shadow:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 3.0
+    Broadcast: false
+    Firework: true
+    Preview: true
+    Block: CHEST
+    Color: BLUE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-16
+        - DIG_SPEED-16
+        - DURABILITY-16
+        - FIRE_ASPECT-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 16
+            DIG_SPEED: 16
+            DURABILITY: 16
+            FIRE_ASPECT: 2
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-5
+        - SILK_TOUCH-5
+        - DURABILITY-5
+        - LOOT_BONUS_BLOCKS-5
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-16
+        - DURABILITY-16
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 16
+            DURABILITY: 16
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-16
+        - DURABILITY-16
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 16
+            DURABILITY: 16
+      '5':
+        Type: ITEM
+        Item Type: LEATHER_BOOTS
+        Item Data: 0
+        Name: '&8&lShadow Boots'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-75
+        - DURABILITY-50
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §8§lShadow Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 75
+            DURABILITY: 50
+          color:
+            ==: Color
+            RED: 76
+            BLUE: 76
+            GREEN: 76
+      '6':
+        Type: ITEM
+        Item Type: LEATHER_LEGGINGS
+        Item Data: 0
+        Name: '&8&lShadow Pants'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-75
+        - DURABILITY-50
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §8§lShadow Pants
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 75
+            DURABILITY: 50
+          color:
+            ==: Color
+            RED: 76
+            BLUE: 76
+            GREEN: 76
+      '7':
+        Type: ITEM
+        Item Type: LEATHER_CHESTPLATE
+        Item Data: 0
+        Name: '&8&lShadow T-Shirt'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-75
+        - DURABILITY-50
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §8§lShadow T-Shirt
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 75
+            DURABILITY: 50
+          color:
+            ==: Color
+            RED: 76
+            BLUE: 76
+            GREEN: 76
+      '8':
+        Type: ITEM
+        Item Type: LEATHER_HELMET
+        Item Data: 0
+        Name: '&8&lShadow Hat'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-75
+        - DURABILITY-50
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §8§lShadow Hat
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 75
+            DURABILITY: 50
+          color:
+            ==: Color
+            RED: 76
+            BLUE: 76
+            GREEN: 76
+      '9':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-45
+        - DURABILITY-20
+        - FIRE_ASPECT-20
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 45
+            FIRE_ASPECT: 20
+            DURABILITY: 20
+      '10':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&6Daily Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§6Daily§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Daily Crate Key
+          lore:
+          - §7Right-Click on a "§6Daily§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '11':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aWeekly Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aWeekly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeekly Crate Key
+          lore:
+          - §7Right-Click on a "§aWeekly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '12':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&dMonthly Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§dMonthly§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dMonthly Crate Key
+          lore:
+          - §7Right-Click on a "§dMonthly§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '13':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&9Shadow Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§9Shadow§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Shadow Crate Key
+          lore:
+          - §7Right-Click on a "§9Shadow§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '14':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&1Ultra Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§1Ultra§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §1Ultra Crate Key
+          lore:
+          - §7Right-Click on a "§1Ultra§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '15':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '16':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '17':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&a&lBank Note'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - '§aAmount: §2$20000000'
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §a§lBank Note
+          lore:
+          - '§aAmount: §2$20000000'
+      '18':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&a&lBank Note'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - '§aAmount: §2$10000000'
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §a§lBank Note
+          lore:
+          - '§aAmount: §2$10000000'
+      '19':
+        Type: ITEM
+        Item Type: COOKED_CHICKEN
+        Item Data: 0
+        Name: '&5&lChicken Nugget'
+        Amount: 1
+        Enchantments:
+        - KNOCKBACK-25
+        Lore:
+        - §5§lThis Is The Holy Nugget!
+        - §5§l
+        - §1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5§lChicken Nugget
+          lore:
+          - §5§lThis Is The Holy Nugget!
+          - §5§l
+          - §1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE
+          enchants:
+            KNOCKBACK: 25
+      '20':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: '&8Diamond Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Diamond Blocks
+      '21':
+        Type: ITEM
+        Item Type: REDSTONE_BLOCK
+        Item Data: 0
+        Name: '&8Redstone Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Redstone Blocks
+      '22':
+        Type: ITEM
+        Item Type: LAPIS_BLOCK
+        Item Data: 0
+        Name: '&8Lapis Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Lapis Blocks
+      '23':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: '&8Iron Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Iron Blocks
+      '24':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: '&8Gold Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Gold Blocks
+      '25':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: '&8Emerald Blocks'
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Emerald Blocks
+      '26':
+        Type: ITEM
+        Item Type: POTION
+        Item Data: 34
+        Name: '&b&lLucky Potion'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §b§lOP Potion For All Your Needs
+        Metadata:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §b§lLucky Potion
+          lore:
+          - §b§lOP Potion For All Your Needs
+          custom-effects:
+          - ==: PotionEffect
+            effect: 1
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 5
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 21
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 13
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 11
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 10
+            duration: 150
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 16
+            duration: 600
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 3
+            duration: 900
+            amplifier: 5
+            ambient: true
+          - ==: PotionEffect
+            effect: 22
+            duration: 600
+            amplifier: 5
+            ambient: true

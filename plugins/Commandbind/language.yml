@@ -1,0 +1,3 @@
+notFromConsole: 'You can not use this command from Console.'
+wrongPermission: 'You do not have the permission to use this command.'
+done: 'command was successfully assigned.'
