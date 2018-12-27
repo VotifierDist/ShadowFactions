@@ -1,0 +1,9 @@
+#[ Cooldown length (seconds) ]#
+cooldownTime: 3
+
+#[ Text between player name and item ]#
+textBetween: presents their
+
+#[ Range in which items are showcased (disabled with value -1) ]#
+range: -1
+

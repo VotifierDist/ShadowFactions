@@ -1,0 +1,19 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":61,"type":"CHEST","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","lore":["(+NBT)","§b§lOPEN
+    THIS FOR A FREE CHRISTMAS PRESENT FROM SHADOWPVP_YT","§b§lTHANKS FOR SUPPORTING
+    THE SERVER AND BEING PATIENT TOO","§b§l-ShadowPvP_YT"],"display-name":"§b§lCHRISTMAS
+    PRESENT!"}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"TRIPWIRE_HOOK","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"lore":["§7Right-Click
+    on a \"§aWeekly§7\" crate","§7to win an item!",""],"display-name":"§aWeekly Crate
+    Key"}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":24,"type":"BEDROCK"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":58,"type":"GOLDEN_APPLE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"LOOT_BONUS_BLOCKS":25}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"LOOT_BONUS_BLOCKS":25}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DAMAGE_ALL":25,"DIG_SPEED":25}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":20,"LOOT_BONUS_MOBS":20,"DAMAGE_ALL":20,"DAMAGE_UNDEAD":20,"FIRE_ASPECT":20,"DAMAGE_ARTHROPODS":20}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","damage":40,"type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"OXYGEN":36,"PROTECTION_FIRE":36,"DURABILITY":36,"PROTECTION_EXPLOSIONS":36,"WATER_WORKER":36,"PROTECTION_ENVIRONMENTAL":36,"PROTECTION_PROJECTILE":36}}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":36,"PROTECTION_FIRE":36,"DURABILITY":36,"PROTECTION_PROJECTILE":36,"PROTECTION_EXPLOSIONS":36}}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","damage":36,"type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":36,"PROTECTION_FIRE":36,"DURABILITY":36,"PROTECTION_PROJECTILE":36,"PROTECTION_EXPLOSIONS":36}}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","damage":37,"type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_FIRE":36,"DURABILITY":36,"PROTECTION_EXPLOSIONS":36,"PROTECTION_ENVIRONMENTAL":36,"PROTECTION_PROJECTILE":36,"PROTECTION_FALL":36,"DEPTH_STRIDER":3}}}'

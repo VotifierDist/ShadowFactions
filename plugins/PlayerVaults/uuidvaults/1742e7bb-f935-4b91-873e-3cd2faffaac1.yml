@@ -1,0 +1,2 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":8,"DURABILITY":8}}}'

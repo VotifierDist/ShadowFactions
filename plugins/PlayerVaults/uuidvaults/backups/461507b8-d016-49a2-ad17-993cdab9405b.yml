@@ -1,0 +1,3 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":15,"DIG_SPEED":15,"SILK_TOUCH":1}}}'
+  '1': '{"type":"BLAZE_ROD","==":"org.bukkit.inventory.ItemStack"}'

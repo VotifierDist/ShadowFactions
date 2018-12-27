@@ -1,0 +1,115 @@
+messages:
+  prefix: '&b&lMonthlyCrate! '
+  no-perms: '%prefix%You don''t have permission to execute this command.'
+  config-reloaded: '%prefix%Config has successfully reloaded!'
+  invalid-usage: '%prefix%Incorrect usage.'
+  success-give: '%prefix%You have successfully given &6%amount%&ex &6%crate%&e Monthly
+    Crates to &6%player%&e!'
+  success-give-other: '%prefix%You now have &6%amount%&ex &6%crate%&e more Monthly
+    Crates!'
+  created-item: '%prefix%You have added your hand item to the crate! To remove it,
+    go into the config and delete it.'
+  help-message:
+  - '&8&l&m-----[&r &6&lMonthly&e&lCrates &f[&8v1.8&f] &8&l&m]-----&r'
+  - '&6&l* &e/mcrate'
+  - '&7View the Available Monthly Crates'
+  - '&6&l* &e/mcrate help'
+  - '&7View the Help Page &8(&cThis Page&8)'
+  - '&6&l* &e/mcrate reload'
+  - '&7Reloads the Config'
+  - '&6&l* &e/mcrate giveall <crate> <amount>'
+  - '&7Give all players a Monthly Crate'
+  - '&6&l* &e/mcrate give <player> <crate> <amount>'
+  - '&7Give a player a Monthly Crate'
+  - ''
+  - '&6&l* &e/mcrate addItem <crateName> <type:(normal or final)> <chance> <giveItem:(if
+    false, command is used)> <command:(don''t put anything here if giveItem is true)>'
+  - '&8&l&m-----[&r &6&lPermission &e&lNodes &8&l&m]-----&r'
+  - '&e&lCMD: &7/mcrate: &fmcrates.storage'
+  - '&c&lADMIN: &fmcrates.admin'
+storage-inv:
+  Name: '&8%crate#% Crates'
+  Size: 9
+sounds:
+  Open: BAT_TAKEOFF
+  Close: LEVEL_UP
+  Countdown: NOTE_PIANO
+crates:
+  Example:
+    crate:
+      Material: ENDER_CHEST
+      Glow: true
+      ItemData: -1
+      Name: '&b&lMonthlyCrate!'
+      Lores:
+      - '&5&lUnlocked With /Buy!'
+      - ''
+      - '&f&l&nADMIN ITEMS'
+      - '&f&l* &fNone'
+      - ''
+      - '&e&l&nPERKS'
+      - '&e&l* &eNone'
+      - ''
+      - '&6&l&nITEMS'
+      - '&6&l* &eDeveloper Skull'
+    gui:
+      Name: '&b&lMonthly Crate'
+      not-redeemed:
+        Material: ENDER_CHEST
+        Glow: false
+        ItemData: -1
+        Amount: 1
+        Name: '&f&l???'
+        Lores:
+        - '&7Click to receive a random'
+        - '&7item from the crate.'
+      final-not-redeemable:
+        Material: STAINED_GLASS_PANE
+        PaneColor: RED
+        Glow: false
+        Amount: 1
+        Name: '&c&l???'
+        Lores:
+        - '&7You can''t open the final reward'
+        - '&7until you have redeemed all other rewards.'
+      animation:
+        Glow: false
+        ScrambleAnimationRunsPerItem: 40
+        FinalAnimationRuns: 6
+        animation-on-colors:
+        - BLUE
+        - LIME
+        - ORANGE
+        - MAGENTA
+        - PINK
+        - YELLOW
+        animation-off-color: BLACK
+    normal-rewards:
+      '0':
+        Material: DIAMOND_SWORD
+        Amount: 1
+        Glow: false
+        ItemData: -1
+        GiveItem: true
+        Name: '&d&lMonthly Sword'
+        Lores:
+        - '&dDefinitely monthly.'
+        Enchantments:
+        - DAMAGE_ALL:1
+        - DURABILITY:1
+        Chance: 50
+    final-rewards:
+      '0':
+        Material: SKULL_ITEM
+        SkullOwner: xXShadowPvP123Xx
+        Amount: 1
+        GiveItem: true
+        Name: '&c&lSexy Right?'
+        Lores:
+        - '&cHey, i just code...'
+        - Very Sexy Man ^^^
+        Chance: 100
+time:
+  ScrambleAnimationSpeedInTicks: 3
+  FinalAnimationSpeedInTicks: 3
+  once-per-item: false

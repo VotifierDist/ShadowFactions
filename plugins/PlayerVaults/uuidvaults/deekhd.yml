@@ -1,0 +1,549 @@
+vault2:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DAMAGE_ALL":25}}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Solar
+    Wind","firework-effects":[{"==":"Firework","trail":false,"type":"BALL_LARGE","flicker":true,"fade-colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]},{"==":"Firework","trail":true,"type":"BALL","flicker":false,"fade-colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]},{"==":"Firework","trail":true,"type":"STAR","flicker":false,"fade-colors":[{"RED":216,"==":"Color","BLUE":152,"GREEN":129}],"colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49},{"RED":123,"==":"Color","BLUE":190,"GREEN":47}]}]}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Starry
+    Night","firework-effects":[{"==":"Firework","trail":true,"type":"STAR","flicker":true,"fade-colors":[{"RED":37,"==":"Color","BLUE":146,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]}]}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Angry
+    Creeper","firework-effects":[{"==":"Firework","trail":false,"type":"CREEPER","flicker":false,"fade-colors":[{"RED":59,"==":"Color","BLUE":26,"GREEN":81}],"colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}]}]}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DAMAGE_ALL":25,"DIG_SPEED":25}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Solar
+    Wind","firework-effects":[{"==":"Firework","trail":false,"type":"BALL_LARGE","flicker":true,"fade-colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]},{"==":"Firework","trail":true,"type":"BALL","flicker":false,"fade-colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]},{"==":"Firework","trail":true,"type":"STAR","flicker":false,"fade-colors":[{"RED":216,"==":"Color","BLUE":152,"GREEN":129}],"colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49},{"RED":123,"==":"Color","BLUE":190,"GREEN":47}]}]}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"LOOT_BONUS_BLOCKS":25}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Angry
+    Creeper","firework-effects":[{"==":"Firework","trail":false,"type":"CREEPER","flicker":false,"fade-colors":[{"RED":59,"==":"Color","BLUE":26,"GREEN":81}],"colors":[{"RED":179,"==":"Color","BLUE":44,"GREEN":49}]}]}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"SKULL_ITEM"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"FIREWORK","meta":{"==":"ItemMeta","meta-type":"FIREWORK","power":1,"display-name":"Starry
+    Night","firework-effects":[{"==":"Firework","trail":true,"type":"STAR","flicker":true,"fade-colors":[{"RED":37,"==":"Color","BLUE":146,"GREEN":49}],"colors":[{"RED":222,"==":"Color","BLUE":42,"GREEN":207},{"RED":235,"==":"Color","BLUE":68,"GREEN":136}]}]}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":35,"DURABILITY":35}}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":35,"DURABILITY":35}}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":35,"DURABILITY":35}}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":35,"DIG_SPEED":35}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":35,"DURABILITY":35}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"BOW","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"ARROW_KNOCKBACK":10,"DURABILITY":10,"ARROW_DAMAGE":15,"ARROW_INFINITE":1}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":35,"LOOT_BONUS_MOBS":15,"DAMAGE_ALL":15}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SOUL_SAND"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":35,"DIG_SPEED":35,"LOOT_BONUS_BLOCKS":15}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SOUL_SAND"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":35,"DAMAGE_ALL":15,"DIG_SPEED":35}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault3:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","amount":63,"type":"TRAPPED_CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","amount":-192,"type":"CHEST","meta":{"lore":["(+NBT)"],"==":"ItemMeta","meta-type":"TILE_ENTITY"}}'
+vault4:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND_BLOCK"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"EMERALD_BLOCK"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"EMERALD_BLOCK"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"EMERALD_BLOCK"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLD_BLOCK"}'
+  '45': '{"type":"BEACON","==":"org.bukkit.inventory.ItemStack"}'
+vault5:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_CHICKEN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":25},"lore":["§5§lThis
+    Is The Holy Nugget!","§5§l","§1§lC§2§lH§3§lI§4§lC§5§lK§6§lE§8§lN NUGGETS ARE BAE"],"display-name":"§5§lChicken
+    Nugget"}}'
+vault6:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault7:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault8:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault9:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault10:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COBBLESTONE"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"COBBLESTONE"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COAL"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":5,"amount":6,"type":"STONE"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":7,"type":"COAL"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"IRON_ORE"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":40,"type":"BEDROCK"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":50,"DURABILITY":50}}}'
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TNT"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":36,"type":"TNT"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":15,"type":"COBBLESTONE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":58,"type":"OBSIDIAN"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SAND"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":7,"type":"FLINT"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":18,"type":"SUGAR_CANE"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":20,"type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"LOOT_BONUS_BLOCKS":25}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"LOOT_BONUS_BLOCKS":25}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DAMAGE_ALL":25,"DIG_SPEED":25}}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SAND"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SAND"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"SAND"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":15,"type":"STONE_BUTTON"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":25,"type":"LEVER"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":6,"FIRE_ASPECT":1,"KNOCKBACK":2,"DAMAGE_ALL":4},"lore":["Only
+    From Daily Crate!"],"display-name":"Daily Crate Sword"}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":25,"type":"DIODE"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","amount":10,"type":"PISTON_BASE"}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","amount":10,"type":"REDSTONE_TORCH_ON"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"BEDROCK"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"type":"IRON_INGOT"}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","amount":58,"type":"COOKED_BEEF"}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","type":"TRIPWIRE_HOOK","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"lore":["§7Right-Click
+    on a \"§aWeekly§7\" crate","§7to win an item!",""],"display-name":"§aWeekly Crate
+    Key"}}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":40,"DURABILITY":40,"DEPTH_STRIDER":10,"PROTECTION_FALL":10,"THORNS":10},"lore":["Best
+    Boots - Ever!"],"display-name":"Ultra Crate Boots"}}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10,"DIG_SPEED":10,"LOOT_BONUS_BLOCKS":5}}}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":20,"LOOT_BONUS_MOBS":20,"DAMAGE_ALL":20,"DAMAGE_UNDEAD":20,"FIRE_ASPECT":20,"DAMAGE_ARTHROPODS":20}}}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":50,"DIG_SPEED":25,"SILK_TOUCH":1}}}'
+  '47': '{"type":"DIAMOND_CHESTPLATE","==":"org.bukkit.inventory.ItemStack"}'

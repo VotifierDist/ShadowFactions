@@ -1,0 +1,13 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"LOG"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":47,"type":"LOG"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":4,"type":"WOOD"}'
+  '3': '{"type":"GRASS","==":"org.bukkit.inventory.ItemStack"}'
+  '4': '{"type":"CHEST","==":"org.bukkit.inventory.ItemStack"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"TRIPWIRE_HOOK","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"lore":["§7Right-Click
+    on a \"§aWeekly§7\" crate","§7to win an item!",""],"display-name":"§aWeekly Crate
+    Key"}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":5,"amount":64,"type":"WOOD"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":5,"amount":64,"type":"WOOD"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","damage":5,"amount":64,"type":"WOOD"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","damage":5,"amount":64,"type":"WOOD"}'

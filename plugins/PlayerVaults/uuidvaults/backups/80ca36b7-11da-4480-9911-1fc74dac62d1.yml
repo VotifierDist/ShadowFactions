@@ -1,0 +1,11 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":8,"DAMAGE_ALL":8}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":8,"DIG_SPEED":8}}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":8,"DAMAGE_ALL":8,"DIG_SPEED":8}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":8,"DURABILITY":8}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":8,"DURABILITY":8}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":8,"DURABILITY":8}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":8,"DIG_SPEED":8}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":8,"DURABILITY":8}}}'

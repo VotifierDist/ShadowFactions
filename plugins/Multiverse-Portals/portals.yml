@@ -1,0 +1,22 @@
+portals:
+  KITPVP:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: xXShadowPvP123Xx
+    location: 899.0,24.0,1349.0:917.0,29.0,1349.0
+    world: Hub
+  KitPvP:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: BazzAhhh
+    location: 905.0,13.0,1352.0:914.0,27.0,1352.0
+    world: Hub
+    destination: e:KitPvP:-115.43603963835811,61.0,95.4837607694435:1.0500295:88.64996

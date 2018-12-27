@@ -1,0 +1,81 @@
+# ==== NoSwear Config ==== #
+Warnings: 3
+OnWarningsDeplete:
+  RestoreWarnings: true
+  Ban: false
+  Kick: true
+  Mute: false
+  Kill: false
+  Command:
+    Enabled: false
+    Execute: kill %PLAYER%
+  Economy:
+    Enabled: true
+    ChargeAmount: 10.0
+OnSwear:
+  IncludeOps: false
+  CancelMessage: true
+  ReplaceSwearWord: false
+  StrictDetection:
+    Enabled: true
+    RegEx: '[^a-z0-9 ]'
+    RepeatedLetters: true
+  NotifyOps: false
+  SendMessageToOps: false
+  UseOldDetection: false
+OnJoin:
+  WelcomeMessage: true
+  WarningsLeft: false
+Block:
+  Websites:
+    Enabled: true
+    IncludeIPs: true
+  Spam:
+    Enabled: true
+    WaitSeconds: 1
+  Caps:
+    Enabled: true
+    MinPercent: 50
+  IncludeCommands: true
+  IncludeSigns: true
+Message:
+  Prefix: '&0[&1Shadow&4Factions&0] &f'
+  Ban: Banned for breaking the rules!
+  Kick: Kicked for breaking the rules!
+  Muted: You have been muted!
+  Join: Protects this server!
+  Caps: Do not spam caps &b%PLAYER%&f!
+  Warn: Do not swear &b%PLAYER%&f!
+  Spam: Do not spam &b%PLAYER%&f!
+  SpamWait: Please wait %SECONDS% more seconds before talking again.
+  Advertise: Do not advertise &b%PLAYER%&f!
+  EconomyCharge: You have been charged $%AMOUNT%!
+  Remaining: You have &b%REMAINING% &f/ &3%DEFAULT% &fwarnings remaining.
+Muted:
+- []
+CheckForUpdates: true
+SubmitMetrics: true
+Version: '7.2'
+generators:
+  generator1:
+    blocks:
+    - STONE:25.0
+    - COBBLESTONE:15.0
+    - STONE_BRICKS:20.0
+    - COAL_ORE:25.0
+    permission: ''
+    unlock_islandLevel: 0
+  generator2:
+    blocks:
+    - IRON_ORE:90.0
+    - STONE:5.0
+    - SANDSTONE:5.0
+    permission: oregen.vip
+    unlock_islandLevel: 0
+disabled-worlds:
+- world_nether
+Warned:
+  Wickedimpulse56: 2
+  Hamzq: 0
+  Salihh5314: 0
+  wesley_98: 2

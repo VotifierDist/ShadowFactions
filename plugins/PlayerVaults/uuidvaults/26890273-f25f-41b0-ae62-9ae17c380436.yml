@@ -1,0 +1,4 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"SEEDS"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"LEATHER_BOOTS","meta":{"==":"ItemMeta","meta-type":"LEATHER_ARMOR","enchants":{"PROTECTION_ENVIRONMENTAL":75,"DURABILITY":50},"color":{"RED":76,"==":"Color","BLUE":76,"GREEN":76},"display-name":"§8§lShadow
+    Boots"}}'

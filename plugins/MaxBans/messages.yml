@@ -1,0 +1,60 @@
+disconnection:
+    you-were-kicked: "&4&lShadow&9&lFactions\n \n&Kicked\n \n&9&lReason &7&l» &9{reason} \n \n&9&lKicked by &7&l» &9{banner} \n \n&9&lTime &7&l» &9Rejoin"
+    you-are-banned: "&4&lShadow&9&lFactions\n \n&cPerm Banned\n \n&9&lReason &7&l» &9{reason} \n \n&9&lBanned by &7&l» &9{banner} \n \n&9&lTime &7&l» &cForever"
+    you-are-ipbanned: "&4&lShadow&9&lFactions\n \n&cIP Banned\n \n&9&lReason &7&l» &9{reason} \n \n&9&lBanned by &7&l» &9{banner} \n \n&9&lTime &7&l» &cForever"
+    you-are-temp-banned: "&4&lShadow&9&lFactions\n \n&cTemp Banned\n \n&9&lReason &7&l» &9{reason} \n \n&9&lBanned by &7&l» &9{banner} \n \n&9&lTime &7&l» &9{time}"
+    you-are-temp-ipbanned: "&4&lShadow&9&lFactions\n \n&cIP Banned\n \n&9&lReason &7&l» &9{reason} \n \n&9&lBanned by &7&l» &9{banner} \n \n&9&lTime &7&l» &c{time}"
+    
+    you-are-rangebanned: "&fYour IP Address (&c{range}&f) is RangeBanned.\nReason: &a{reason}&f\nBy: &a{banner}&f.\n{appeal-message}"
+    you-are-temp-rangebanned: "&fYour IP Address (&c{range}&f) is RangeBanned.\nThe ban expires in &a{time}&f.\nReason: &a{reason}&f\nBy: &a{banner}&f.\n{appeal-message}"
+    
+    you-are-proxied: "Kicked by Maxbans:\n Your IP ({ip}) is listed as a proxy."
+    
+    lockdown-active: "&fServer is in lockdown mode. Try again shortly. Reason: \n{reason}"
+    invalid-letters: "&fKicked by MaxBans.\nYour name contains invalid characters:\n&c'{letters}'&f"
+    invalid-name: "&fKicked by MaxBans.\nYour name is invalid!"
+    
+    
+announcement:
+    player-was-kicked: "&4&lShadow&9&lFactions &8&l» &9{name} &7was kicked by &9{banner} &7for '&9{reason}&7'"
+    player-was-banned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was banned by &9{banner} &7for '&9{reason}&7'"
+    player-was-ip-banned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was IP-banned by &9{banner} &7for '&9{reason}&7'"
+    player-was-muted: "&4&lShadow&9&lFactions &8&l» &9{name} &7was muted by &9{banner} &7for '&9{reason}&7'"
+    player-was-tempbanned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was temporarily banned by &9{banner} &7for '&9{reason}&7'"
+    player-was-tempipbanned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was temporarily IP banned by &9{banner} &7for '&9{reason}&7'"
+    player-was-temp-muted: "&4&lShadow&9&lFactions &8&l» &9{name} &7was temporarily muted by &9{banner} &7for '&9{reason}&7'"
+    player-was-unbanned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was unbanned by &9{banner}"
+    player-was-unmuted: "&4&lShadow&9&lFactions &8&l» &9{name} &7was unmuted by &9{banner}'"
+    player-was-warned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was warned by &9{banner} &7for '&9{reason}&7'"
+    ip-was-unbanned: "&4&lShadow&9&lFactions &8&l» &9{name} &7was unbanned by &9{banner}"
+    player-warnings-cleared: "&4&lShadow&9&lFactions &8&l» &9{name} &7was unwarned by &9{banner} &7for '&9{reason}&7'"
+    unwarn-success: "&4&lShadow&9&lFactions &8&l» &9{name} &7was unwarned by &9{banner}"
+    
+error:
+    no-player-given: "&cNo name given."
+    no-permission: "&cYou don't have permission to do that."
+    no-ip-known: "&cThat player has no IP history!"
+    no-ipban-found: "&cCould not find a ban for &a{ip}&f."
+    no-ban-found: "&cCould not find a ban for &a{name}&f."
+    no-mute-found: "&a{name}&c is not muted."
+    no-dupeip-duplicates: "&fNo duplicates!"
+    no-history: "&fNo history."
+    no-warnings: "&a{name}&c has no warnings to their name."
+    
+    unknown-player: "&cNo player found: &a{name}&f"
+    player-already-banned: "&cThat player is already banned."
+    ip-already-banned: "&cThat IP is already banned."
+    
+    
+    tempban-shorter-than-last: "&cThat player has a tempban which will last longer than the one you supplied!"
+    tempipban-shorter-than-last: "&cThat IP has a tempban which will last longer than the one you supplied!"
+    tempmute-shorter-than-last: "&cThat player already has a mute which lasts longer than the one you tried to give."
+
+times:
+    hours: hour
+    minutes: minute
+    seconds: second
+    weeks: week
+    days: day
+    years: year
+    months: month

@@ -1,0 +1,52 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"type":"TORCH"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"REDSTONE_LAMP_OFF"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"type":"BONE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"ARROW"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"DAMAGE_ALL":3,"DIG_SPEED":3}}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"LAVA_BUCKET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"ItemFlags":["HIDE_ENCHANTS"],"lore":["§e»
+    §dWill Generate §e§nObsidian§r§d All The Way To Bedrock"],"display-name":"§d§l***
+    §5§lObsidian GenBucket §d§l***"}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"ItemFlags":["HIDE_ENCHANTS"],"lore":["§e»
+    §dWill Go Generate Obsidian From §eIntial Point §dTo §eY:254","§e» §dGeneration
+    Will §eStop §dIf Block Above Is Not §eAir","§e» §dBreak Intital Block To Stop
+    Generation"],"display-name":"§d§l*** §5§lObsidian Scaffold §d§l***"}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SAND","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"ItemFlags":["HIDE_ENCHANTS"],"lore":["§e»
+    §dWill Go Generate Sand From §eIntial Point §dTo §eY:254","§e» §dGeneration Will
+    §eStop §dIf Block Above Is Not §eAir","§e» §dBreak Intital Block To Stop Generation"],"display-name":"§a§l***
+    §e§lSand Scaffold §a§l***"}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"DIG_SPEED":3}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":63,"type":"COBBLESTONE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"ItemFlags":["HIDE_ENCHANTS"],"lore":["§e»
+    §dWill Go Generate Cobblestone From §eIntial Point §dTo §eY:254","§e» §dGeneration
+    Will §eStop §dIf Block Above Is Not §eAir","§e» §dBreak Intital Block To Stop
+    Generation"],"display-name":"§f§l*** §b§lCobblestone Scaffold §f§l***"}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"type":"SKULL_ITEM","meta":{"skull-owner":"MHF_Skeleton","==":"ItemMeta","meta-type":"SKULL"}}'
+  '11': '{"type":"SULPHUR","==":"org.bukkit.inventory.ItemStack"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":15,"type":"REDSTONE_BLOCK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"type":"SKULL_ITEM","meta":{"skull-owner":"MHF_Creeper","==":"ItemMeta","meta-type":"SKULL","display-name":"§eCreeper
+    Head§7§o 15$"}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"LAVA_BUCKET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1},"ItemFlags":["HIDE_ENCHANTS"],"lore":["§e»
+    §dWill Generate §e§nCobblestone§r§d All The Way To Bedrock"],"display-name":"§f§l***
+    §b§lCobblestone GenBucket §f§l***"}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"type":"SKULL_ITEM","meta":{"skull-owner":"MHF_Skeleton","==":"ItemMeta","meta-type":"SKULL","display-name":"§eSkeleton
+    Head§7§o 20$"}}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"type":"SKULL_ITEM","meta":{"skull-owner":"MHF_Creeper","==":"ItemMeta","meta-type":"SKULL"}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"DAMAGE_ALL":3}}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"DIG_SPEED":3}}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":15,"DIG_SPEED":15}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":15,"DAMAGE_ALL":15,"DIG_SPEED":15}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":15,"DIG_SPEED":15}}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":15,"DAMAGE_ALL":15}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"GOLDEN_APPLE"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","damage":13,"type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":3,"DURABILITY":3}}}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","damage":9,"type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":3,"DURABILITY":3}}}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","damage":8,"type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":3,"DURABILITY":3}}}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":3,"DURABILITY":3}}}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":26,"type":"COOKED_BEEF"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BOOTS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":15,"DURABILITY":15}}}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_LEGGINGS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":15,"DURABILITY":15}}}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HELMET","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":15,"DURABILITY":15}}}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_CHESTPLATE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":15,"DURABILITY":15}}}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLDEN_APPLE"}'
