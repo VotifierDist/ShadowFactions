@@ -1,0 +1,134 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  tools:
+    delay: 10
+    items:
+    - 272 1
+    - 273 1
+    - 274 1
+    - 275 1
+  dtools:
+    delay: 600
+    items:
+    - 278 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
+    - 277 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
+    - 298 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
+    - 279:780 1
+  notch:
+    delay: 6000
+    items:
+    - 397:3 1 player:Notch
+  color:
+    delay: 6000
+    items:
+    - 387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
+  firework:
+    delay: 6000
+    items:
+    - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
+    - 401 1 name:Starry_Night color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
+    - 401 2 name:Solar_Wind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
+  Ultra:
+    delay: 86400
+    items:
+    - 310:0 1 protection_environmental:50 durability:50
+    - 311:0 1 protection_environmental:50 durability:50
+    - 312:0 1 protection_environmental:50 durability:50
+    - 313:0 1 protection_environmental:50 durability:50
+    - 276:0 1 damage_all:25 durability:50
+    - 278:0 1 dig_speed:25 durability:50 loot_bonus_blocks:25
+    - 279:0 1 damage_all:25 dig_speed:25 durability:50
+    - 277:0 1 dig_speed:25 durability:50 loot_bonus_blocks:25
+    - 322:1 64
+    - 7:0 24
+    - 364:0 64
+  Shadow:
+    delay: 6000
+    items:
+    - 276:0 1 damage_all:20 damage_undead:20 durability:20 damage_arthropods:20 fire_aspect:20 loot_bonus_mobs:20
+    - 322:1 32
+    - 310:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36 oxygen:36 water_worker:36
+    - 311:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36
+    - 312:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36
+    - 313:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_fall:36 protection_explosions:36 protection_projectile:36 depth_strider:3
+    - 364:0 64
+    - 7:0 16
+    - 322:1 32
+  Weekly:
+    delay: 804800
+    items:
+    - 276:0 1 damage_all:8 durability:8
+    - 278:0 1 dig_speed:8 durability:8
+    - 279:0 1 damage_all:8 dig_speed:8 durability:8
+    - 277:0 1 dig_speed:8 durability:8
+    - 310:0 1 protection_environmental:8 durability:8
+    - 311:0 1 protection_environmental:8 durability:8
+    - 312:0 1 protection_environmental:8 durability:8
+    - 313:0 1 protection_environmental:8 durability:8
+    - 322:1 64
+    - 364:0 64
+  Daily:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:3 durability:3
+    - 278:0 1 dig_speed:3 durability:3
+    - 279:0 1 dig_speed:3 damage_all:3 durability:3
+    - 277:0 1 dig_speed:3 durability:3
+    - 310:0 1 protection_environmental:3 durability:3
+    - 311:0 1 protection_environmental:3 durability:3
+    - 312:0 1 protection_environmental:3 durability:3
+    - 313:0 1 protection_environmental:3 durability:3
+    - 322:1 64
+    - 364:0 64
+  Monthly:
+    delay: 2628000
+    items:
+    - 276:0 1 damage_all:15 durability:15
+    - 278:0 1 dig_speed:15 durability:15
+    - 279:0 1 damage_all:15 dig_speed:15 durability:15
+    - 277:0 1 dig_speed:15 durability:15
+    - 310:0 1 protection_environmental:15 durability:15
+    - 311:0 1 protection_environmental:15 durability:15
+    - 312:0 1 protection_environmental:15 durability:15
+    - 313:0 1 protection_environmental:15 durability:15
+    - 364:0 64
+    - 322:1 64
+  Coal:
+    delay: 6000
+    items:
+    - 276:0 1 damage_all:10 durability:15
+    - 278:0 1 dig_speed:10 durability:15
+    - 279:0 1 dig_speed:10 damage_all:10 durability:15
+    - 277:0 1 dig_speed:10 durability:15
+    - 364:0 64
+    - 322:1 64
+    - 310:0 1 protection_environmental:15 durability:15
+    - 311:0 1 protection_environmental:15 durability:15
+    - 312:0 1 protection_environmental:15 durability:15
+    - 313:0 1 protection_environmental:15 durability:15
+    - 17:0 64
+    - 7:0 4
+  Youtube:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:15 loot_bonus_mobs:15 durability:35
+    - 278:0 1 dig_speed:35 durability:35 loot_bonus_blocks:15
+    - 279:0 1 damage_all:15 dig_speed:35 durability:35
+    - 277:0 1 dig_speed:35 durability:35
+    - 261:0 1 arrow_damage:15 arrow_knockback:10 durability:10 arrow_infinite:1
+    - 322:1 64
+    - 364:0 64
+    - 7:0 8
+    - 313:0 1 protection_environmental:35 durability:35
+    - 312:0 1 protection_environmental:35 durability:35
+    - 311:0 1 protection_environmental:35 durability:35
+    - 310:0 1 protection_environmental:35 durability:35

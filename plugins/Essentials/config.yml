@@ -1,0 +1,420 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: none
+nickname-prefix: ''
+max-nick-length: 40
+ignore-colors-in-max-nick-length: false
+change-displayname: true
+teleport-safety: true
+force-disable-teleport-safety: true
+teleport-cooldown: 0
+teleport-delay: 4
+teleport-invulnerability: 4
+teleport-to-center: true
+heal-cooldown: 60
+near-radius: 200
+permission-based-item-spawn: false
+spawnmob-limit: 20
+warn-on-smite: true
+drop-items-if-full: true
+notify-no-new-mail: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+mute-commands:
+- msg
+- r
+- w
+- t
+- kittycannon
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+skip-used-one-time-kits-from-kit-list: true
+kits:
+  Ultra:
+    delay: 86400
+    items:
+    - 310:0 1 protection_environmental:50 durability:50
+    - 311:0 1 protection_environmental:50 durability:50
+    - 312:0 1 protection_environmental:50 durability:50
+    - 313:0 1 protection_environmental:50 durability:50
+    - 276:0 1 damage_all:25 durability:50
+    - 278:0 1 dig_speed:25 durability:50 loot_bonus_blocks:25
+    - 279:0 1 damage_all:25 dig_speed:25 durability:50
+    - 277:0 1 dig_speed:25 durability:50 loot_bonus_blocks:25
+    - 322:1 64
+    - 7:0 24
+    - 364:0 64
+  Weekly:
+    delay: 804800
+    items:
+    - 276:0 1 damage_all:8 durability:8
+    - 278:0 1 dig_speed:8 durability:8
+    - 279:0 1 damage_all:8 dig_speed:8 durability:8
+    - 277:0 1 dig_speed:8 durability:8
+    - 310:0 1 protection_environmental:8 durability:8
+    - 311:0 1 protection_environmental:8 durability:8
+    - 312:0 1 protection_environmental:8 durability:8
+    - 313:0 1 protection_environmental:8 durability:8
+    - 322:1 64
+    - 364:0 64
+  Daily:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:3 durability:3
+    - 278:0 1 dig_speed:3 durability:3
+    - 279:0 1 dig_speed:3 damage_all:3 durability:3
+    - 277:0 1 dig_speed:3 durability:3
+    - 310:0 1 protection_environmental:3 durability:3
+    - 311:0 1 protection_environmental:3 durability:3
+    - 312:0 1 protection_environmental:3 durability:3
+    - 313:0 1 protection_environmental:3 durability:3
+    - 322:1 64
+    - 364:0 64
+  Monthly:
+    delay: 2628000
+    items:
+    - 276:0 1 damage_all:15 durability:15
+    - 278:0 1 dig_speed:15 durability:15
+    - 279:0 1 damage_all:15 dig_speed:15 durability:15
+    - 277:0 1 dig_speed:15 durability:15
+    - 310:0 1 protection_environmental:15 durability:15
+    - 311:0 1 protection_environmental:15 durability:15
+    - 312:0 1 protection_environmental:15 durability:15
+    - 313:0 1 protection_environmental:15 durability:15
+    - 364:0 64
+    - 322:1 64
+  Coal:
+    delay: 6000
+    items:
+    - 276:0 1 damage_all:10 durability:15
+    - 278:0 1 dig_speed:10 durability:15
+    - 279:0 1 dig_speed:10 damage_all:10 durability:15
+    - 277:0 1 dig_speed:10 durability:15
+    - 364:0 64
+    - 322:1 64
+    - 310:0 1 protection_environmental:15 durability:15
+    - 311:0 1 protection_environmental:15 durability:15
+    - 312:0 1 protection_environmental:15 durability:15
+    - 313:0 1 protection_environmental:15 durability:15
+    - 17:0 64
+    - 7:0 4
+  Youtube:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:15 loot_bonus_mobs:15 durability:35
+    - 278:0 1 dig_speed:35 durability:35 loot_bonus_blocks:15
+    - 279:0 1 damage_all:15 dig_speed:35 durability:35
+    - 277:0 1 dig_speed:35 durability:35
+    - 261:0 1 arrow_damage:15 arrow_knockback:10 durability:10 arrow_infinite:1
+    - 322:1 64
+    - 364:0 64
+    - 7:0 8
+    - 313:0 1 protection_environmental:35 durability:35
+    - 312:0 1 protection_environmental:35 durability:35
+    - 311:0 1 protection_environmental:35 durability:35
+    - 310:0 1 protection_environmental:35 durability:35
+  Reaper:
+    delay: 6000
+    items:
+    - 276:0 1 damage_all:18 durability:18
+    - 278:0 1 dig_speed:20 durability:20
+    - 279:0 1 dig_speed:20 durability:20
+    - 277:0 1 dig_speed:20 durability:20
+    - 322:1 64
+    - 364:0 64
+    - 312:0 1 protection_environmental:30 durability:20
+    - 311:0 1 protection_environmental:30 durability:20
+    - 310:0 1 protection_environmental:30 durability:20
+    - 7:0 8
+    - 313:0 1 protection_environmental:30 durability:20
+  Shadow:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:20 damage_undead:20 durability:20 damage_arthropods:20 fire_aspect:20 loot_bonus_mobs:20 name:§b§lShadow_Sword
+    - 322:1 64 name:§b§lShadow_Gapples
+    - 310:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36 oxygen:36 water_worker:36 name:§b§lShadow_Helmet
+    - 311:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36 name:§b§lShadow_Chestplate
+    - 312:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_explosions:36 protection_projectile:36 name:§b§lShadow_Pants
+    - 313:0 1 protection_environmental:36 protection_fire:36 durability:36 protection_fall:36 protection_explosions:36 protection_projectile:36 depth_strider:3 name:§b§lShadow_Boots
+    - 364:0 64 name:§b§luWantBeef?_Well,_This_Is_Steak
+    - 7:0 16 name:§b§lBIGMAN_ROCK
+enabledSigns:
+- color
+- balance
+- buy
+- sell
+- trade
+- free
+- disposal
+- warp
+- kit
+- mail
+- enchant
+- gamemode
+- heal
+- info
+- spawnmob
+- repair
+- time
+- weather
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: true
+list:
+  Owner: owner
+debug: false
+remove-god-on-disconnect: true
+auto-afk: 300
+auto-afk-kick: 3600
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+afk-list-name: none
+death-messages: false
+allow-silent-join-quit: false
+custom-join-message: '&7[&a+&7] {USERNAME}'
+custom-quit-message: '&7[&c-&7] {USERNAME}'
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: true
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 50
+max-tempban-time: 604800
+last-message-reply-recipient: false
+last-message-reply-recipient-timeout: 180
+milk-bucket-easter-egg: true
+send-fly-enable-on-join: true
+world-time-permissions: false
+command-cooldown-persistence: true
+npcs-in-balance-ranking: false
+pastebin-createkit: true
+allow-bulk-buy-sell: true
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  default: 3
+  vip: 5
+  staff: 10
+tpa-accept-cancellation: 120
+starting-balance: 250000
+currency-symbol: $
+max-money: 10000000000
+min-money: 0
+economy-log-enabled: false
+use-bukkit-permissions: false
+minimum-pay-amount: 0.001
+non-ess-in-help: false
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: '{DISPLAYNAME}: {MESSAGE}'
+  group-formats:
+    Owner: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Youtube: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Helper: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Dev: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Shadow: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Moderator: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Builder: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Coal: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Admin: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Reaper: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+    Ultra: '{DISPLAYNAME}&7:&7 {MESSAGE}'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist:
+    placement: 10,11,327
+    dispenser: 46
+newbies:
+  announce-format: '&7Welcome {DISPLAYNAME}&7!'
+  spawnpoint: newbies
+  kit: ''
+respawn-listener-priority: high
+respawn-at-home: false
+spawn-on-join: false

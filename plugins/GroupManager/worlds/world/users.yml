@@ -1,0 +1,340 @@
+users:
+  010cd4af-f6ca-4831-8b75-91fb113e18d0:
+    group: Builder
+    subgroups: []
+    permissions: []
+  06ef6597-fcbe-4f3b-9dc0-871ae5fede66:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&bHamzq&8)'
+  0ca8010d-5926-4d07-b6c5-7a56977e21a3:
+    group: Admin
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&4Head&8-&4Admin&8) &4'
+  17fb80df-7d45-4e49-b41d-d089cee8ab31:
+    group: Helper
+    subgroups: []
+    permissions: []
+  1c90bbc9-ed71-4463-970c-54ddd3d356f3:
+    group: Coal
+    subgroups: []
+    permissions: []
+  1d367dfa-f38e-4845-a819-c55e0139d5fd:
+    group: Default
+    subgroups: []
+    permissions:
+    - essentials.invsee
+    info:
+      prefix: '&8&l(&5Advertiser&8&l)'
+  2053c8e5-514f-47e9-8796-621a397772f3:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&5Co-Owner&8)'
+  2a22c06c-a2a7-496b-9011-b634abb80971:
+    group: Default
+    subgroups: []
+    permissions:
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.colour
+    info:
+      prefix: '&8(&3Helper&8)'
+  329eabcc-e656-4197-8d6e-43d5e6413c8d:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8[&bShadow&8]'
+  3cfc9624-71a9-4e47-9e90-35db7cdf57fb:
+    group: Owner
+    subgroups: []
+    permissions:
+    - essentials.kit.coal
+    - essentials.kits.coal
+  3e771e3c-cc2b-4ef8-9906-7efc72e89306:
+    group: Ultra
+    subgroups: []
+    permissions: []
+  461507b8-d016-49a2-ad17-993cdab9405b:
+    group: Builder
+    subgroups: []
+    permissions:
+    - essentials.fly
+    - essentials.skull
+    - essentials.skull.*
+  56d53809-af10-486f-99d6-39a0c6ea968e:
+    group: Default
+    subgroups: []
+    permissions:
+    - essentials.fly
+    - essentials.me
+  5b9f65e1-87d8-4cca-8df1-daec2473f618:
+    group: Coal
+    subgroups: []
+    permissions: []
+  5cee4fec-cbe7-4357-97d5-f7cc528cbc47:
+    group: Ultra
+    subgroups: []
+    permissions: []
+  6a88e90c-bb68-40c5-992a-1a1e8282338e:
+    group: Default
+    subgroups: []
+    permissions:
+    - '*'
+    - essentials.kit.*
+    - essentials.kits.*
+  6abd017e-a856-4432-bfdb-02fa60d38925:
+    group: Coal
+    subgroups: []
+    permissions: []
+  6b182de9-bb63-40fb-a88a-faf8946e7807:
+    group: Admin
+    subgroups: []
+    permissions: []
+  72e0130d-bb1e-4df4-bae5-49e2b0b0efcd:
+    group: Shadow
+    subgroups: []
+    permissions:
+    - Essentials.fly
+  7f47ce88-a1f7-45ef-abc7-a3b0f99e1810:
+    group: Admin
+    subgroups: []
+    permissions:
+    - Essentials.speed.*
+  82fe3d5f-992d-4a76-a248-b15b0e226ed1:
+    group: Builder
+    subgroups: []
+    permissions:
+    - essentials.hat
+    info:
+      prefix: '&7(&4Head&7-&4Builder&7) &4'
+  918c43d0-c8e1-442f-a31f-63efd60fa2dd:
+    group: Default
+    subgroups: []
+    permissions:
+    - essentials.skull
+  9342b7b3-e57e-4cdd-82aa-38fa12a4c533:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&bCo-Owner&8)'
+  9780dde9-32a5-4d79-85e7-964700adab6b:
+    group: Dev
+    subgroups: []
+    permissions: []
+  99ea7a1e-8a97-4f0b-af16-bdfc5019b98f:
+    group: Default
+    subgroups: []
+    permissions:
+    - sellchest.chest.sell
+    - sellchest.sign.create
+  9c392a44-5ee7-40da-8e20-474536584b12:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&4Manager&8) &4'
+  9d0f09bf-8285-4a32-be21-eed067aee07b:
+    group: Youtube
+    subgroups: []
+    permissions:
+    - factions.admin
+    - factions.bypass
+  a1b0a8f8-e10c-4bfd-b2f0-3c52f71e1de0:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8[&5Builder/Admin&8]'
+  a952bb17-dbd0-4760-b390-4da77472a5d6:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&b&lAlt&8)'
+  b73d9be1-368b-4d4c-9263-008e7e28def5:
+    group: Default
+    subgroups: []
+    permissions:
+    - essentials.build.interact.87
+    - essentials.button
+    - essentials.buttons
+    - essentials.interact
+    - essentials.interact.button
+    - essentials.interact.commmand.block
+    - essentials.press
+    - essentials.pressure.plate
+  bb2808c8-a0bf-420a-8ffe-07aa97580dce:
+    group: Dev
+    subgroups: []
+    permissions: []
+  bcd4f52c-ccf5-4649-9aa9-4895aa3f5673:
+    group: Moderator
+    subgroups: []
+    permissions: []
+  bf0d2175-0e87-4bf0-8ef4-fb024a65db0b:
+    group: Helper
+    subgroups: []
+    permissions:
+    - essentials.feed
+    - essentials.fly
+    - essentials.heal
+    - essentials.kit.coal
+    - essentials.kit.shadow
+    - essentials.kit.ultra
+    info:
+      prefix: '&8(&cUltra&8)'
+      Prefix: '&4(&9Ultra&4)&6'
+      suffix: '&0(&6Helper&0)'
+  CallMrWolf:
+    group: Ultra
+    subgroups: []
+    permissions:
+    - '*'
+    - worldedit.*
+  Cupcake437:
+    group: Coal
+    subgroups: []
+    permissions: []
+  d9a1ab2f-1ea1-48ec-99b1-f234887d772a:
+    group: Ultra
+    subgroups: []
+    permissions: []
+  DeekHD:
+    group: Helper
+    subgroups: []
+    permissions:
+    - playervaults.1
+    - playervaults.2
+    info:
+      Suffix: '&9(&6Ultra&9)'
+  e1bec7e6-0a97-48ef-b1f5-f5a9e75b33e0:
+    group: Builder
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  EPMC:
+    group: Shadow
+    subgroups: []
+    permissions: []
+  f04fefc0-0b1b-4698-9dc5-4eff80bbf276:
+    group: Ultra
+    subgroups: []
+    permissions:
+    - essentials.fix
+    - essentials.fix.all
+    - essentials.fixall
+    - essentials.hat
+    - essentials.repair
+    info:
+      prefix: '&4&l[&b&lBFF&4&l]'
+      suffix: '&3'
+  f3a800d1-724d-49e6-a5e0-2ede8076018c:
+    group: Admin
+    subgroups: []
+    permissions: []
+  FCCincyFTW:
+    group: Dev
+    subgroups: []
+    permissions:
+    - '*'
+  feaeb705-c5cd-40a4-b3e1-769ad2612ac6:
+    group: Admin
+    subgroups: []
+    permissions:
+    - '&3(&5Head-Admin&3)&9'
+    - prefix
+    info:
+      prefix: '&8(&4&lHead-Admin&8)'
+  glowish:
+    group: Dev
+    subgroups: []
+    permissions: []
+  Hamzq:
+    group: Dev
+    subgroups: []
+    permissions: []
+  HubbleDoubles:
+    group: Ultra
+    subgroups: []
+    permissions: []
+  Hunts_Men:
+    group: Coal
+    subgroups: []
+    permissions: []
+  KGhunter:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&8(&bHead-Builder&8)'
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  m0nthly:
+    group: Coal
+    subgroups: []
+    permissions:
+    - essentials.fly
+  MaxSpring:
+    group: Coal
+    subgroups: []
+    permissions:
+    - essentials.fly
+  PebbleHostcom:
+    group: Admin
+    subgroups: []
+    permissions: []
+  Scarmo:
+    group: Coal
+    subgroups: []
+    permissions: []
+  ShadowPvP_YT:
+    group: Owner
+    subgroups: []
+    permissions:
+    - essentials.fly
+    info:
+      prefix: '&7(&5Co&7-&5Owner&7) &9'
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Thavic25:
+    group: Admin
+    subgroups: []
+    permissions: []
+  ThisStaffy:
+    group: Ultra
+    subgroups: []
+    permissions:
+    - essentials.fly
+  Tronix221:
+    group: Ultra
+    subgroups: []
+    permissions:
+    - essentials.fly
+  UltraShowsYT:
+    group: Owner
+    subgroups: []
+    permissions: []
+  Zereldo:
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&7(&4Manager&7) &4'

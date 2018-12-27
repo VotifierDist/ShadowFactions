@@ -1,0 +1,43 @@
+#-----------------------------------------------------------------#
+#			Developed By xPenguinx
+#		    Discord: xPenguinx#5281
+#				Version [1.0]
+#-----------------------------------------------------------------#
+
+gui-open-message: '&8&l<&c&lGenBuckets&8&l> &c» &7Opening Gui...'
+
+item-purchased-message: '&8&l<&c&lGenBuckets&8&l> &c» &7Successfully purchased item'
+
+generation-stop-message: '&8&l<&c&lGenBuckets&8&l> &c» &7Generation Has Been Stopped Due To Initial Block Missing.'
+
+not-enough-money-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Don''t Have Enough Money To Place This!'
+
+obby-gen-money: 5000.0
+
+obby-gen-money-take-away-message: true
+
+obby-gen-money-taken-away-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Have Been Charged &a$5000 &7For Placing A Obsidian GenBucket'
+
+cobble-gen-money: 10.0
+
+cobble-gen-money-take-away-message: true
+
+cobble-gen-money-taken-away-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Have Been Charged &a$10 &7For Placing A Cobblestone GenBucket'
+
+sand-scaffold-money: 4000.0
+
+sand-scaffold-money-take-away-message: true
+
+sand-scaffold-money-taken-away-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Have Been Charged &a$4000 &7For Placing A Sand Scaffold'
+
+cobble-scaffold-money: 10.0
+
+cobble-scaffold-money-take-away-message: true
+
+cobble-scaffold-money-taken-away-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Have Been Charged &a$10 &7For Placing A Cobblestone Scaffold'
+
+obby-scaffold-money: 5000.0
+
+obby-scaffold-money-take-away-message: true
+
+obby-scaffold-money-taken-away-message: '&8&l<&c&lGenBuckets&8&l> &c» &7You Have Been Charged &a$5000 &7For Placing A Obsidian Scaffold'

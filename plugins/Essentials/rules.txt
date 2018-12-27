@@ -1,0 +1,19 @@
+&4&l&n-=Bans=-
+&4&lHacking - &b&l30d
+&4&lRacism  - &b&l7d
+&4&lAbusing Glitches - &b&l7d
+&4&lRude To Staff - &b&l7d
+&4&lGriefing - &b&l30d
+&4&lDDos/DDos Threats - &b&lPerm
+&4&lScamming - &b&l14d
+&4&lHomophobic Language - &b&l7d
+&4&lSpamming - &b&l7d
+&4&lAdvertising - &b&l14d
+&4&l&n-=Mutes=-
+&4&lDisrespectful - &b&l12H
+&4&lThreats - &b&l24H
+&4&lSharing Private Information - &b&l1H
+&4&l&n-=Staff=-
+&4&lAbusing Teleportation - &b&lRemove Staff, 14d Ban
+&4&lAbusing Power - &b&lRemove Staff, 7d Ban
+&4&lAbusing /Seen (Location) - 14d Ban, Warning

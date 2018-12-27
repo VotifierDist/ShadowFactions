@@ -1,0 +1,77 @@
+# Do not modify
+version: '1.3'
+
+##############################################
+
+# Current placeholders:
+# {TICKS-PER-TICK} - The ticks-per-tick set in the config. 1 if level 0.
+# {NEXT-TPT} - The ticks-per-tick for the next level.
+# {LEVEL} - The level of the furnace being viewed.
+# {NEXT-LEVEL} - The next level of the furnace being viewed.
+# {COST} - The cost of the the current furnace upgrade.
+# {NEXT-COST} - The cost of the next furnace upgrade.
+
+level-gui:
+  name: '&eUpgrade furnace to level {NEXT-LEVEL}?'
+  max-level-name: '&eLevel 5 Furnace'
+  items:
+    book:
+      name: '&5&lFurnace Stats'
+      lore:
+      - '&9Speed: &e{TICKS-PER-TICK}x Speed'
+      - '&9Level: &e{LEVEL}'
+    emerald-block:
+      name: '&aYes'
+      lore:
+      - '&5Upgrade your furnace to level {NEXT-LEVEL}'
+      - '&5for ${NEXT-COST}?'
+      - '&6Next upgrade: &e{NEXT-TPT}x speed'
+    redstone-block:
+      name: '&cNo'
+      lore:
+      - '&5Close the menu.'
+    obsidian:
+      name: '&4Max level!'
+      lore:
+      - '&cYour furnace is maxed out!'
+
+##############################################
+
+##############################################
+
+# This section is meant for customization of upgraded furnaces'
+#  lore and name. Names and lores containing the '&' character
+# must be wrapping in single quotes (' ')
+
+# No lore can be set by removing it completely, except for the 'lore:'              lore:
+# if so desired. The format for a string list - what lore is - is as follows:       - '(text)'
+#                                                                                   - '(text)'
+
+level-1:
+  name: '&7Level 1 Furnace'
+  lore:
+level-2:
+  name: '&fLevel 2 Furnace'
+  lore:
+level-3:
+  name: '&aLevel 3 Furnace'
+  lore:
+level-4:
+  name: '&9Level 4 Furnace'
+  lore:
+level-5:
+  name: '&5Level 5 Furnace'
+  lore:
+
+##############################################
+
+# Generic default messages
+burn-msg: '&cYou cannot upgrade furnaces while they are burning!'
+error-msg: '&cError! Please try again.'
+no-level-permission: '&cYou cannot upgrade furnaces to this level!'
+no-permission: '&cYou do not have permission to use this!'
+debug-enabled: '&aDebug mode enabled!'
+debug-disabled: '&cDebug mode disabled.'
+not-enough-money: '&cYou cannot afford this!'
+successful-purchase: '&aPurchase successful!'
+furnace-placed: '&aLevel {LEVEL} furnace placed!'

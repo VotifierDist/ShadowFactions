@@ -1,0 +1,9 @@
+FakePlayers:
+  enabled: false
+  max-players: 100
+  fake-players: 57
+  random:
+    enabled: false
+    min-players: 20
+    max-player: 100
+    max-players: 100

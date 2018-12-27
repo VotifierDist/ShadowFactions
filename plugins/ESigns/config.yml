@@ -1,0 +1,5 @@
+unsafe-enchants: true
+Multiplier: 0
+Enchantable-Items:
+- DIAMOND_PICKAXE
+- GOLD_PICKAXE

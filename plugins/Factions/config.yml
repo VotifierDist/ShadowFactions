@@ -1,0 +1,143 @@
+# FactionsUUID by drtshock
+# Report issues https://github.com/drtshock/Factions/issues?state=open
+# Live support http://webchat.esper.net/?channels=drtshock&prompt=1
+
+# Made with love <3
+
+# Debug
+# Turn this on if you are having issues with something and working on resolving them.
+# This will spam your console with information that is useful if you know how to read the source.
+# It's suggested that you only turn this on at the direction of a developer.
+debug: false
+
+# Prevent find factions exploit
+# This will help limit how many times a player can be sent a map of factions.
+# Set this to the cooldown you want, in miliseconds, for a map to be shown to a player.
+# If you want to log when a player violates this (only happens on chunk enter so it shouldn't be too spammy),
+#   set log to true and it will be logged to console as "player tried to show a faction map too soon and triggered exploit blocker."
+findfactionsexploit:
+  cooldown: 2000 # in miliseconds. 2000 = 2 seconds.
+  log: false
+
+### Hard Core Settings ###
+# Many of the features that are / are to come in this section have been requested by
+#   people in relation to HCF servers. All settings are set to the normal Factions
+#   behavior by default.
+
+# Default Relation allows you to change the default relation for Factions.
+# Example usage would be so people can't leave then make a new Faction while Raiding
+#   in order to be able to execute commands if the default relation is neutral.
+# This has always been neutral.
+default-relation: "neutral"
+
+# Portal Creation
+# Do you want to limit portal creation?
+portals:
+  limit: false # will disable the below check if set to false
+
+  # What should the minimum relation be to create a portal in territory?
+  # Goes in the order of: ENEMY, NEUTRAL, ALLY, MEMBER.
+  # Minimum relation allows that and all listed to the right to create portals.
+  # Example: put ALLY to allow ALLY and MEMBER to be able to create portals.
+  minimum-relation: MEMBER # If typed incorrectly, defaults to NEUTRAL.
+
+### Hard Core Settings ###
+
+# Warps
+# What should be the max amount of warps that a Factoin can set?
+max-warps: 10
+
+# This is the cost section for warps.
+# It will charge them each time the command would be successful. (won't charge on erroneous /f warp attempts).
+# You can use decimal places here.
+# If enabled is set to false, it will ignore the values.
+warp-cost:
+  enabled: truw
+  setwarp: 10000
+  delwarp: 5000
+  warp: 5
+
+# Pistons
+# Should we disable pistons in Faction territory? This will prevent people from doing something like:
+# http://i.gyazo.com/6a1a31222e58a5d60ff341c13f6a8404.gif
+disable-pistons-in-territory: false
+
+# ToolTips
+# This section is to configure tooltips for things like /f list
+tooltips:
+
+  # List
+  # This shows up when someone does /f list for the top factions.
+  # It will not sure up for factionless of course, just actual factions.
+  # You can use color codes here.
+  list:
+    - "&bLeader: &f{leader}"
+    - "&6Claimed: &f{chunks}"
+    - "&bRaidable: &f{raidable}"
+    - "&6Warps: &f{warps}"
+    - "&bPower: &f{power}/{maxPower}"
+    - "&6Members: &f{online}/{members}"
+
+  # Show
+  # This shows up when someone does /f show.
+  # It adds tooltips to each player in the list here, nothing else.
+  # {group} will show the players primary group if you have vault installed.
+  # {balance} will show their balance if you have vault installed.
+  # {lastSeen} will show human readable info on when the player was last seen, or online.
+  show:
+    - "&bLast Seen: &f{lastSeen}"
+    - "&6Power: &f{power}"
+    - "&bRank: &f{group}"
+    - "&6Balance: &a${balance}"
+
+# Configuration section for Scoreboards
+# This will allow you to completely customize how your scoreboards look.
+# Make sure that no lines are duplicates of each other otherwise only the first will display.
+# Use &0-9a-f for colors and include messages in "quotes"
+scoreboard:
+
+# How long do we want scoreboards to stay if set temporarily.
+  expiration: 7
+
+# FInfo scoreboard is displayed when a player walks into a new Faction's territory.
+# Scoreboard disappears after <expiration> seconds.
+# Things to be replaced in this:
+# {power} - faction's power. {chunks} - total claimed chunks. {members} - total members.
+# {online} - online members. {leader} - faction's leader. {open} - shows either true or false if open.
+# {raidable} - true if the faction can be claimed over, otherwise false.
+# {warps} - the number of warps that a faction has set.
+# The title of the scoreboard will be the Faction's tag and colored according to the relation with the player's Faction.
+# Commenting this section out will cause the info to appear in chat as the plugin originally did.
+  finfo-enabled: false # Default to false to keep original functionality.
+  finfo:
+    - "&6Power"
+    - "{power}"
+    - "&3Members"
+    - "{online}/{members}"
+    - "&4Leader"
+    - "{leader}"
+    - "&bTerritory"
+    - "{chunks}"
+
+# Default board that will always show up if a player wants it to.
+# This can show any arbitrary text or you can use a lot of variables to replace things.
+# Replace {name} - player's name. {faction} - player's faction title, factionless if none.
+# {totalOnline} - total players on the server. {balance} - player's balance.
+# {maxPower} - player's max power.
+# {powerBoost} - player's powerboost.
+
+  default-enabled: false # Default to false to keep original functionality.
+  default-title: "i love drt" # Can use any of the values from above but this won't update once it's set (so don't set {balance}).
+  default-update-interval: 2 # in seconds.
+
+  # This will show faction prefixes colored based on relation on nametags and in the tab.
+  #   The scoreboard needs to be enabled for this to work.
+  default-prefixes: true
+
+  default:
+    - "&6Your Faction"
+    - "{faction}"
+    - "&3Your Power"
+    - "{power}"
+    - "&aBalance"
+    - "${balance}"

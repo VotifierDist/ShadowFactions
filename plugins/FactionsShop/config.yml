@@ -1,0 +1,514 @@
+##########################################################
+#                     Factions Shop                      #
+##########################################################
+
+Handle_Spawner_Pickup: true
+#Would you like this plugin to handle mob spawner pickups?
+#If you have no other plugin handling it, this is highly
+#Recommended.
+
+Require_Silk_Touch: true
+#Would you like players to need silk touch on their pickaxe
+#in order to pickup mob spawners?
+#Note: This will not take effect if 'Handle_Spawner-Pickup'
+#Is set to false.
+
+#Alternative_Spawner_Shop_Command: "/es shop"
+#Uncomment this out if you would like to use a different
+#plugins spawner shop. This is the command used to open it.
+#This example would use EpicSpawner's Shop
+
+##########################################################
+#                    Raiding Supplies                    #
+##########################################################
+Redstone_Torch_Buy_Price: 25.00
+Redstone_Torch_Sell_Price: 20.00
+
+Lever_Buy_Price: 20.00
+Lever_Sell_Price: 16.00
+
+Button_Buy_Price: 5.50
+Button_Sell_Price: 4.40
+
+Redstone_Buy_Price: 16.25
+Redstone_Sell_Price: 13.00
+
+Repeater_Buy_Price: 85.00
+Repeater_Sell_Price: 68.00
+
+Comparator_Buy_Price: 100.00
+Comparator_Sell_Price: 80.00
+
+Dispenser_Buy_Price: 819.00
+Dispenser_Sell_Price: 655.20
+
+Piston_Buy_Price: 195.00
+Piston_Sell_Price: 156.00
+
+Sticky_Piston_Buy_Price: 325.00
+Sticky_Piston_Sell_Price: 260.00
+
+Tnt_Buy_Price: 81.25
+Tnt_Sell_Price: 65.00
+
+Sand_Buy_Price: 3.00
+Sand_Sell_Price: 2.50
+
+Slab_Buy_Price: 2.75
+Slab_Sell_Price: 2.20
+
+Sponge_Buy_Price: 2000.00
+Sponge_Sell_Price: 1800.00
+
+Ice_Buy_Price: 117.00
+Ice_Sell_Price: 93.75
+
+Water_Bucket_Buy_Price: 500
+Water_Bucket_Sell_Price: 400
+
+Lava_Bucket_Buy_Price: 500
+Lava_Bucket_Sell_Price: 400
+
+Web_Buy_Price: 40
+Web_Sell_Price: 32
+
+Creeper_Egg_Buy_Price: 125000
+Creeper_Egg_Sell_Price: 100000
+
+##########################################################
+#                    Food And Farming                    #
+##########################################################
+Carrot_Buy_Price: 25.00
+Carrot_Sell_Price: 20.00
+
+Pumpkin_Buy_Price: 325.00
+Pumpkin_Sell_Price: 260.00
+
+Melon_Block_Buy_Price: 20.30
+Melon_Block_Sell_Price: 16.24
+
+Chicken_Buy_Price: 11.88
+Chicken_Sell_Price: 9.50
+
+Sugar_Cane_Buy_Price: 16.25
+Sugar_Cane_Sell_Price: 13.00
+
+Cactus_Buy_Price: 18.75
+Cactus_Sell_Price: 15.00
+
+Apple_Buy_Price: 25.00
+Apple_Sell_Price: 20.00
+
+Cake_Buy_Price: 50.00
+Cake_Sell_Price: 40.00
+
+Bread_Buy_Price: 31.25
+Bread_Sell_Price: 25.00
+
+Pork_Buy_Price: 11.88
+Pork_Sell_Price: 9.50
+
+Golden_Apple_Buy_Price: 1500
+Golden_Apple_Sell_Price: 1200
+
+Cookie_Buy_Price: 5.94
+Cookie_Sell_Price: 4.75
+
+Soup_Buy_Price: 190.00
+Soup_Sell_Price: 152.00
+
+Seeds_Buy_Price: 2.19
+Seeds_Sell_Price: 1.75
+
+Melon_Seeds_Buy_Price: 3.44
+Melon_Seeds_Sell_Price: 2.75
+
+Pumpkin_Seeds_Buy_Price: 3.44
+Pumpkin_Seeds_Sell_Price: 2.75
+
+Iron_Hoe_Buy_Price: 360.00
+Iron_Hoe_Sell_Price: 288.00
+
+Diamond_Hoe_Buy_Price: 750.00
+Diamond_Hoe_Sell_Price: 600.00
+
+##########################################################
+#                      Casual Blocks                     #
+##########################################################
+Stone_Buy_Price: 5.50
+Stone_Sell_Price: 4.40
+
+Dirt_Buy_Price: 5.50
+Dirt_Sell_Price: 4.40
+
+Cobblestone_Buy_Price: 5.50
+Cobblestone_Sell_Price: 4.40
+
+Oak_Buy_Price: 5.50
+Oak_Sell_Price: 4.40
+
+Spruce_Buy_Price: 5.50
+Spruce_Sell_Price: 4.40
+
+Birch_Buy_Price: 5.50
+Birch_Sell_Price: 4.40
+
+Jungle_Buy_Price: 5.50
+Jungle_Sell_Price: 4.40
+
+Acacia_Buy_Price: 5.50
+Acacia_Sell_Price: 4.40
+
+Dark_Oak_Buy_Price: 5.50
+Dark_Oak_Sell_Price: 4.40
+
+##########################################################
+#                      Colored Blocks                    #
+##########################################################
+White_Clay_Buy_Price: 6.35
+White_Clay_Sell_Price: 5.08
+
+Orange_Clay_Buy_Price: 6.35
+Orange_Clay_Sell_Price: 5.08
+
+Magenta_Clay_Buy_Price: 6.35
+Magenta_Clay_Sell_Price: 5.08
+
+Light_Blue_Clay_Buy_Price: 6.35
+Light_Blue_Clay_Sell_Price: 5.08
+
+Yellow_Clay_Buy_Price: 6.35
+Yellow_Clay_Sell_Price: 5.08
+
+Lime_Clay_Buy_Price: 6.35
+Lime_Clay_Sell_Price: 5.08
+
+Pink_Clay_Buy_Price: 6.35
+Pink_Clay_Sell_Price: 5.08
+
+Gray_Clay_Buy_Price: 6.35
+Gray_Clay_Sell_Price: 5.08
+
+Light_Gray_Clay_Buy_Price: 6.35 
+Light_Gray_Clay_Sell_Price: 5.08
+
+Cyan_Clay_Buy_Price: 6.35
+Cyan_Clay_Sell_Price: 5.08
+
+Purple_Clay_Buy_Price: 6.35
+Purple_Clay_Sell_Price: 5.08
+
+Blue_Clay_Buy_Price: 6.35
+Blue_Clay_Sell_Price: 5.08
+
+Brown_Clay_Buy_Price: 6.35
+Brown_Clay_Sell_Price: 5.08
+
+Green_Clay_Buy_Price: 6.35
+Green_Clay_Sell_Price: 5.08
+
+Red_Clay_Buy_Price: 6.35
+Red_Clay_Sell_Price: 5.08
+
+Black_Clay_Buy_Price: 6.35
+Black_Clay_Sell_Price: 5.08
+
+White_Pane_Buy_Price: 2.34
+White_Pane_Sell_Price: 1.88
+
+Orange_Pane_Buy_Price: 2.34
+Orange_Pane_Sell_Price: 1.88
+
+Magenta_Pane_Buy_Price: 2.34
+Magenta_Pane_Sell_Price: 1.88
+
+Light_Blue_Pane_Buy_Price: 2.34
+Light_Blue_Pane_Sell_Price: 1.88
+
+Yellow_Pane_Buy_Price: 2.34
+Yellow_Pane_Sell_Price: 1.88
+
+Lime_Pane_Buy_Price: 2.34
+Lime_Pane_Sell_Price: 1.88
+
+Pink_Pane_Buy_Price: 2.34
+Pink_Pane_Sell_Price: 1.88
+
+Gray_Pane_Buy_Price: 2.34
+Gray_Pane_Sell_Price: 1.88
+
+Light_Gray_Pane_Buy_Price: 2.34 
+Light_Gray_Pane_Sell_Price: 1.88
+
+Cyan_Pane_Buy_Price: 2.34
+Cyan_Pane_Sell_Price: 1.88
+
+Purple_Pane_Buy_Price: 2.34
+Purple_Pane_Sell_Price: 1.88
+
+Blue_Pane_Buy_Price: 2.34
+Blue_Pane_Sell_Price: 1.88
+
+Brown_Pane_Buy_Price: 2.34
+Brown_Pane_Sell_Price: 1.88
+
+Green_Pane_Buy_Price: 2.34
+Green_Pane_Sell_Price: 1.88
+
+Red_Pane_Buy_Price: 2.34
+Red_Pane_Sell_Price: 1.88
+
+Black_Pane_Buy_Price: 2.34
+Black_Pane_Sell_Price: 1.88
+
+Red_Dye_Buy_Price: 10
+Red_Dye_Sell_Price: 8
+
+Yellow_Dye_Buy_Price: 10
+Yellow_Dye_Sell_Price: 8
+
+Green_Dye_Buy_Price: 10
+Green_Dye_Sell_Price: 8
+
+Blue_Dye_Buy_Price: 10
+Blue_Dye_Sell_Price: 8
+
+White_Dye_Buy_Price: 10
+White_Dye_Sell_Price: 8
+
+Black_Dye_Buy_Price: 10
+Black_Dye_Sell_Price: 8
+
+Brown_Dye_Buy_Price: 10
+Brown_Dye_Sell_Price: 8
+
+Wool_Buy_Price: 2.34
+Wool_Sell_Price: 1.88
+
+White_Glass_Buy_Price: 6.25
+White_Glass_Sell_Price: 5
+
+Orange_Glass_Buy_Price: 6.25
+Orange_Glass_Sell_Price: 5
+
+Magenta_Glass_Buy_Price: 6.25
+Magenta_Glass_Sell_Price: 5
+
+Light_Blue_Glass_Buy_Price: 6.25 
+Light_Blue_Glass_Sell_Price: 5
+
+Yellow_Glass_Buy_Price: 6.25
+Yellow_Glass_Sell_Price: 5
+
+Lime_Glass_Buy_Price: 6.25
+Lime_Glass_Sell_Price: 5
+
+Pink_Glass_Buy_Price: 6.25
+Pink_Glass_Sell_Price: 5
+
+Gray_Glass_Buy_Price: 6.25
+Gray_Glass_Sell_Price: 5
+
+Light_Gray_Glass_Buy_Price: 6.25
+Light_Gray_Glass_Sell_Price: 5
+
+Cyan_Glass_Buy_Price: 6.25
+Cyan_Glass_Sell_Price: 5
+
+Purple_Glass_Buy_Price: 6.25
+Purple_Glass_Sell_Price: 5
+
+Blue_Glass_Buy_Price: 6.25
+Blue_Glass_Sell_Price: 5
+
+Brown_Glass_Buy_Price: 6.25
+Brown_Glass_Sell_Price: 5
+
+Green_Glass_Buy_Price: 6.25
+Green_Glass_Sell_Price: 5
+
+Red_Glass_Buy_Price: 6.25
+Red_Glass_Sell_Price: 5
+
+Black_Glass_Buy_Price: 6.25
+Black_Glass_Sell_Price: 5
+
+##########################################################
+#                       Decorations                      #
+##########################################################
+Poppy_Buy_Price: 18.75
+Poppy_Sell_Price: 15
+
+Orchid_Buy_Price: 18.75
+Orchid_Sell_Price: 15
+
+Allium_Buy_Price: 18.75
+Allium_Sell_Price: 15
+
+Bluet_Buy_Price: 18.75
+Bluet_Sell_Price: 15
+
+Red_Tulip_Buy_Price: 18.75
+Red_Tulip_Sell_Price: 15
+
+Orange_Tulip_Buy_Price: 18.75
+Orange_Tulip_Sell_Price: 15
+
+White_Tulip_Buy_Price: 18.75
+White_Tulip_Sell_Price: 15
+
+Pink_Tulip_Buy_Price: 18.75
+Pink_Tulip_Sell_Price: 15
+
+Daisy_Buy_Price: 18.75
+Daisy_Sell_Price: 15
+
+Sunflower_Buy_Price: 18.75
+Sunflower_Sell_Price: 15
+
+Lilac_Buy_Price: 18.75
+Lilac_Sell_Price: 15
+
+Rose_Buy_Price: 18.75
+Rose_Sell_Price: 15
+
+Peony_Buy_Price: 18.75
+Peony_Sell_Price: 15
+
+Brown_Mushroom_Buy_Price: 37.5
+Brown_Mushroom_Sell_Price: 30
+
+Red_Mushroom_Buy_Price: 37.5
+Red_Mushroom_Sell_Price: 30
+
+Vines_Buy_Price: 75
+Vines_Sell_Price: 60
+
+Pot_Buy_Price: 300
+Pot_Sell_Price: 240
+
+Painting_Buy_Price: 300
+Painting_Sell_Price: 240
+
+##########################################################
+#                    Potion Supplies                     #
+##########################################################
+Potion_of_Healing_Buy_Price: 120
+Potion_of_Healing_Sell_Price: 96
+
+Potion_of_Harming_Buy_Price: 145
+Potion_of_Harming_Sell_Price: 116
+
+Potion_of_Poison_Buy_Price: 30
+Potion_of_Poison_Sell_Price: 24
+
+Potion_of_Regeneration_Buy_Price: 55
+Potion_of_Regeneration_Sell_Price: 44
+
+Splash_Potion_of_Healing_Buy_Price: 85
+Splash_Potion_of_Healing_Sell_Price: 68
+
+Splash_Potion_of_Harming_Buy_Price: 110
+Splash_Potion_of_Harming_Sell_Price: 88
+
+Splash_Potion_of_Poison_Buy_Price: 62
+Splash_Potion_of_Poison_Sell_Price: 49.6
+
+Splash_Potion_of_Regeneration_Buy_Price: 75
+Splash_Potion_of_Regeneration_Sell_Price: 60
+
+Water_Bottle_Buy_Price: 225
+Water_Bottle_Sell_Price: 180
+
+##########################################################
+#                        Valuables                       #
+##########################################################
+Coal_Buy_Price: 80
+Coal_Sell_Price: 64
+
+Iron_Buy_Price: 1170
+Iron_Sell_Price: 936
+
+Gold_Buy_Price: 1850
+Gold_Sell_Price: 1480
+
+Redstone_Block_Buy_Price: 195
+Redstone_Block_Sell_Price: 156
+
+Lapis_Buy_Price: 160
+Lapis_Sell_Price: 128
+
+Diamond_Buy_Price: 3500
+Diamond_Sell_Price: 2800
+
+Emerald_Buy_Price: 8775
+Emerald_Sell_Price: 7020
+
+Obsidian_Buy_Price: 14.84
+Obsidian_Sell_Price: 11.875
+
+Ender_Chest_Buy_Price: 150
+Ender_Chest_Sell_Price: 120
+
+##########################################################
+#                        Spawners                        #
+##########################################################
+Chicken_Spawner_Buy_Price: 65000
+Chicken_Spawner_Sell_Price: 52000
+
+Enderman_Spawner_Buy_Price: 2000000
+Enderman_Spawner_Sell_Price: 1600000
+
+Slime_Spawner_Buy_Price: 1300000
+Slime_Spawner_Sell_Price: 1040000
+
+Creeper_Spawner_Buy_Price: 410000
+Creeper_Spawner_Sell_Price: 328000
+
+Iron_Golem_Spawner_Buy_Price: 3500000
+Iron_Golem_Spawner_Sell_Price: 2800000
+
+Skeleton_Spawner_Buy_Price: 115000
+Skeleton_Spawner_Sell_Price: 92000
+
+Zombie_Spawner_Buy_Price: 115000
+Zombie_Spawner_Sell_Price: 92000
+
+Pigman_Spawner_Buy_Price: 390000
+Pigman_Spawner_Sell_Price: 312000
+
+Spider_Spawner_Buy_Price: 90000
+Spider_Spawner_Sell_Price: 72000
+
+##########################################################
+#                        Mob Drops                       #
+##########################################################
+Gunpowder_Buy_Price: 25
+Gunpowder_Sell_Price: 20
+
+Arrow_Buy_Price: 6.25
+Arrow_Sell_Price: 5
+
+Feather_Buy_Price: 8.13
+Feather_Sell_Price: 6.5
+
+Rotten_Flesh_Buy_Price: 2.5
+Rotten_Flesh_Sell_Price: 2
+
+String_Buy_Price: 8.13
+String_Sell_Price: 6.5
+
+Ender_Pearl_Buy_Price: 50
+Ender_Pearl_Sell_Price: 40
+
+Blaze_Rod_Buy_Price: 62.5
+Blaze_Rod_Sell_Price: 50
+
+Leather_Buy_Price: 2.5
+Leather_Sell_Price: 2
+
+Bow_Buy_Price: 40
+Bow_Sell_Price: 32
+
+VERSION: 1.2.6
+#DONT TOUCH THIS

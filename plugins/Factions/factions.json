@@ -1,0 +1,607 @@
+{
+  "22": {
+    "id": "22",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Godly",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "15": "ALLY",
+      "16": "ALLY",
+      "25": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "23": {
+    "id": "23",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Royals",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "24": {
+    "id": "24",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "HopeUMine",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "home": {
+      "world": "world",
+      "x": 99.95062053889914,
+      "y": 6.0,
+      "z": 4162.68688039425,
+      "yaw": -38.09931564331055,
+      "pitch": 17.099994659423828
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "8": "ALLY",
+      "25": "ALLY",
+      "16": "ALLY",
+      "26": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "25": {
+    "id": "25",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Reborn",
+    "description": "Default faction description :(",
+    "open": true,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "24": "ALLY",
+      "22": "ALLY",
+      "8": "ALLY",
+      "16": "ALLY",
+      "26": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "3cfc9624-71a9-4e47-9e90-35db7cdf57fb",
+      "6abd017e-a856-4432-bfdb-02fa60d38925",
+      "2053c8e5-514f-47e9-8796-621a397772f3"
+    ],
+    "announcements": {},
+    "warps": {}
+  },
+  "27": {
+    "id": "27",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Targetx",
+    "description": "yo",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "28": {
+    "id": "28",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Bestegirl",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "29": {
+    "id": "29",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Mine",
+    "description": "Mine",
+    "open": true,
+    "peaceful": false,
+    "home": {
+      "world": "world_nether",
+      "x": -211.5,
+      "y": 152.0,
+      "z": 88.5,
+      "yaw": 298.68792724609375,
+      "pitch": 86.94475555419922
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "10": {
+    "id": "10",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "LoneWolf",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "home": {
+      "world": "world",
+      "x": 3285.5,
+      "y": 24.0,
+      "z": -606.5,
+      "yaw": 180.514892578125,
+      "pitch": 44.05121612548828
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "13": "ENEMY",
+      "1": "ENEMY",
+      "16": "ALLY"
+    },
+    "claimOwnership": {
+      "world": {
+        "300,329": [
+          "b8eb9c82-0fb6-4c95-8cde-5066c1e59881"
+        ],
+        "299,329": [
+          "b8eb9c82-0fb6-4c95-8cde-5066c1e59881"
+        ],
+        "299,328": [
+          "b8eb9c82-0fb6-4c95-8cde-5066c1e59881"
+        ],
+        "300,328": [
+          "b8eb9c82-0fb6-4c95-8cde-5066c1e59881"
+        ]
+      }
+    },
+    "invites": [],
+    "announcements": {},
+    "warps": {
+      "admin": {
+        "world": "world",
+        "x": 4799.909289964329,
+        "y": 6.0,
+        "z": 5262.9330609533035,
+        "yaw": 181.6312255859375,
+        "pitch": -4.38014030456543
+      }
+    }
+  },
+  "11": {
+    "id": "11",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Divine",
+    "description": "if her age is on the clock, she is ready for the cock! :D",
+    "open": false,
+    "peaceful": false,
+    "home": {
+      "world": "world",
+      "x": -868.3007087678085,
+      "y": 64.0,
+      "z": -609.3000000119209,
+      "yaw": -206.16867065429688,
+      "pitch": 17.550003051757812
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "12": {
+    "id": "12",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Future",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "home": {
+      "world": "world_the_end",
+      "x": -4984.310504509216,
+      "y": 2.5,
+      "z": 4970.369122803172,
+      "yaw": -93.90694427490234,
+      "pitch": 88.95059967041016
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "15": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "13": {
+    "id": "13",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "OwO",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "14": {
+    "id": "14",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Vintage",
+    "description": "Pure Vintage",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "-1": {
+    "id": "-1",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§6Safezone",
+    "description": "Free from pvp and monsters.",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "-2": {
+    "id": "-2",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§4Warzone",
+    "description": "Not the safest place to be.",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "16": {
+    "id": "16",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "PewDiePie",
+    "description": "T-Series = Trash",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "10": "ALLY",
+      "24": "ALLY",
+      "25": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "3c161067-052f-479b-82e7-0ecf61159915"
+    ],
+    "announcements": {},
+    "warps": {}
+  },
+  "17": {
+    "id": "17",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "lol",
+    "description": "laughing out loud",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "18": {
+    "id": "18",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "TSeriesFTW",
+    "description": "T-SERIES = TRASHHHHHHH",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "19": {
+    "id": "19",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Randomer",
+    "description": "I Buy Crate Key",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "16": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "0": {
+    "id": "0",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "1": {
+    "id": "1",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Universe",
+    "description": "Mess With The Best, Respawn Like The Rest",
+    "open": true,
+    "peaceful": false,
+    "home": {
+      "world": "world",
+      "x": 880.6999999880791,
+      "y": 21.0,
+      "z": 2068.699999988079,
+      "yaw": 134.11622619628906,
+      "pitch": 39.299991607666016
+    },
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "10": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "c1e1c1fb-1c19-4584-bec7-0cfde73066d1"
+    ],
+    "announcements": {},
+    "warps": {}
+  },
+  "3": {
+    "id": "3",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "JSA",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [
+      "9d0f09bf-8285-4a32-be21-eed067aee07b"
+    ],
+    "announcements": {},
+    "warps": {}
+  },
+  "4": {
+    "id": "4",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "oof",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "5": {
+    "id": "5",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Canada",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "1": "ENEMY",
+      "3": "ENEMY",
+      "6": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "6": {
+    "id": "6",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Oblivion",
+    "description": "Oblivion",
+    "open": false,
+    "peaceful": false,
+    "home": {
+      "world": "world",
+      "x": -5183.186612374655,
+      "y": 89.0,
+      "z": 5280.008657666561,
+      "yaw": -147.47335815429688,
+      "pitch": 35.39362335205078
+    },
+    "money": 0.0,
+    "powerBoost": 10.0,
+    "relationWish": {
+      "7": "ENEMY",
+      "15": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {
+      "trap": {
+        "world": "world",
+        "x": -2927.563108122364,
+        "y": 255.0,
+        "z": 4214.521456895076,
+        "yaw": -127.16983032226562,
+        "pitch": 85.15843200683594
+      }
+    }
+  },
+  "7": {
+    "id": "7",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Echo",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "8": {
+    "id": "8",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "IGSquad",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "15": "ALLY",
+      "24": "ALLY",
+      "25": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "9": {
+    "id": "9",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Free69",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "20": {
+    "id": "20",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "ACreepy",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "15": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  },
+  "21": {
+    "id": "21",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "HauntedOG",
+    "description": "Default faction description :(",
+    "open": false,
+    "peaceful": false,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {}
+  }
+}
