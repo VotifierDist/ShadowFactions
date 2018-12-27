@@ -1,0 +1,50 @@
+notifications: false
+chests:
+  world, 880, 92, 2054:
+    sign: world, 880, 92, 2055
+    cooldown: 5
+    members: []
+  world, 879, 92, 2054:
+    sign: world, 879, 92, 2055
+    cooldown: 9
+    members: []
+  world, 878, 92, 2054:
+    sign: world, 878, 92, 2055
+    cooldown: 4
+    members: []
+  world, 877, 92, 2054:
+    sign: world, 877, 92, 2055
+    cooldown: 5
+    members: []
+  world, 876, 92, 2054:
+    sign: world, 876, 92, 2055
+    cooldown: 6
+    members: []
+  world, 875, 92, 2054:
+    sign: world, 875, 92, 2055
+    cooldown: 6
+    members: []
+  world, 873, 92, 2054:
+    sign: world, 873, 92, 2055
+    cooldown: 8
+    members: []
+  world, 874, 92, 2054:
+    sign: world, 874, 92, 2055
+    cooldown: 9
+    members: []
+  world, 872, 92, 2054:
+    sign: world, 872, 92, 2055
+    cooldown: 10
+    members: []
+  world, 871, 92, 2054:
+    sign: world, 871, 92, 2055
+    cooldown: 10
+    members: []
+  world, 870, 92, 2054:
+    sign: world, 870, 92, 2055
+    cooldown: 11
+    members: []
+  world, 869, 92, 2054:
+    sign: world, 869, 92, 2055
+    cooldown: 12
+    members: []

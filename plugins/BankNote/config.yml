@@ -1,0 +1,8 @@
+#Bank Note config file. Only change vaules. DO NOT change paths. Do not remove the '' around the value either.
+BankNoteTitle: '&a&lBank Note'
+#Amount will be added automatically to lore
+BankNoteLore: '&aAmount: &2$'
+#Please do not add the title of the banknote to the withdraw msg or redeem msg, it will be add automatically
+WithdrawMsg: '&aWithdraw for: $'
+RedeemMsg: '&aRedeemed for: $'
+ActionBarMsg: '&2Added: $'

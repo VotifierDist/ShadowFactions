@@ -1,0 +1,236 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&3HomeCity: &7Changelog'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+  
+  command: 'Changelog'
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Changelog:
+       NAME: 'Standaard: /Changelog'
+       ID: Paper
+       COMMAND:  'op:Enderchest'
+       PERMISSION: 'Bank.VIP'
+       PERMISSION-MESSAGE: '&4Om deze bedrag te gebruiken moet je helaas VIP zijn!'
+       KEEP-OPEN: true  
+       Lore:
+       - /changelog is Recente update's of oude update te kunnen zien :)
+       POSITION-X: 3
+       POSITION-Y: 2
+       
+      
+
+
+
+
+########################
+#+                    +#
+#       GLASS          #
+#+                    +#
+########################
+
+glass11:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 1
+
+glass12:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 1
+
+glass13:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 3
+  POSITION-Y: 1
+
+glass14:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 1
+
+glass15:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 1
+
+glass16:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 1
+
+glass17:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 7
+  POSITION-Y: 1
+
+glass18:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 1
+
+glass19:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 1
+
+#-----------------------
+
+
+glass21:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 2
+
+glass22:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 3
+
+glass221:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 4
+
+glass231:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 5
+glass223:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 6
+#-----------------------
+
+13glass:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 2
+
+12glass:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 3
+123glass:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 4
+
+132glass:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 5
+1346glass:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 6
+
+  #-----------------------
+
+56glass12:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 6
+
+567glass13:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 3
+  POSITION-Y: 6
+
+55glass14:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 6
+
+55glass15:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 6
+
+55glass16:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 6
+
+55glass17:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 7
+  POSITION-Y: 6
+
+55glass18:
+  NAME: ''
+  KEEP-OPEN: true  
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 6
+
+  
+
+

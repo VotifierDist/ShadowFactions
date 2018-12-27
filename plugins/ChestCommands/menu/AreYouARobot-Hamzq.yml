@@ -1,0 +1,242 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&aAre You a Robot ?'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'AreYouARobot'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:5]
+  open-with-item:
+    id: 345
+    left-click: true
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+Skyblocks:
+  NAME: ''
+  KEEP-OPEN: true
+  COMMAND: ''
+  ID: stained_glass_pane:15 
+  POSITION-X: 7
+  POSITION-Y: 2
+Bosses:
+  NAME: ''
+  KEEP-OPEN: true
+  COMMAND: ''
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 2  
+CrateRoom:
+  NAME: '&aIam Not A Robot '
+  KEEP-OPEN: true
+  COMMAND: 'console: spawn {player}'
+  ID: stained_glass_pane:5
+  POSITION-X: 3
+  POSITION-Y: 3   
+Staff:
+  NAME: ''
+  KEEP-OPEN: true
+  COMMAND: ''
+  ID: stained_glass_pane:15 
+  POSITION-X: 4
+  POSITION-Y: 2    
+Hub:
+  NAME: ''
+  KEEP-OPEN: true
+  COMMAND: ''
+  ID: stained_glass_pane:15 
+  POSITION-X: 5
+  POSITION-Y: 2    
+Pvp:
+  NAME: ''
+  KEEP-OPEN: true
+  COMMAND: ''
+  ID: stained_glass_pane:15 
+  POSITION-X: 6
+  POSITION-Y: 2  
+Vote:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15 
+  POSITION-X: 8
+  POSITION-Y: 2   
+    
+######################
+#+                  +#
+#       GLASS        #
+#+                  +#
+######################
+
+GLASS:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 1
+GLASS1:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 1
+GLASS2:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 3
+  POSITION-Y: 1
+GLASS3:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 1
+GLASS4:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 1
+GLASS5:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 1
+GLASS6:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 7
+  POSITION-Y: 1
+GLASS7:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 1
+GLASS8:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 1
+######################
+#+                  +#
+#       GLASS        #
+#+                  +#
+######################
+GLASS9:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 2
+GLASS10:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 1
+  POSITION-Y: 3
+GLASS11:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 2
+  POSITION-Y: 3
+GLASS12:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 3
+  POSITION-Y: 2
+GLASS13:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 4
+  POSITION-Y: 3
+GLASS14:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 5
+  POSITION-Y: 3
+GLASS15:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 6
+  POSITION-Y: 3
+GLASS16:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 7
+  POSITION-Y: 3
+GLASS17:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 8
+  POSITION-Y: 3
+
+######################
+#+                  +#
+#       GLASS        #
+#+                  +#
+######################
+
+GLASS18:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 3
+GLASS19:
+  NAME: ''
+  KEEP-OPEN: true
+  ID: stained_glass_pane:15
+  POSITION-X: 9
+  POSITION-Y: 2
+
+    
+   
+
+
+
+
+
+
+
+  
+
+  
+  

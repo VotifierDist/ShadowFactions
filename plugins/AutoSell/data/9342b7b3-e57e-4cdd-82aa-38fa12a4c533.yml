@@ -1,0 +1,37 @@
+notifications: false
+chests:
+  world, 151, 62, 3974:
+    sign: world, 151, 62, 3975
+    cooldown: 11
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 153, 62, 3974:
+    sign: world, 153, 62, 3975
+    cooldown: 3
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 155, 62, 3974:
+    sign: world, 155, 62, 3975
+    cooldown: 11
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 157, 62, 3974:
+    sign: world, 157, 62, 3975
+    cooldown: 1
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 159, 62, 3974:
+    sign: world, 159, 62, 3975
+    cooldown: 6
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 161, 62, 3974:
+    sign: world, 161, 62, 3975
+    cooldown: 11
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533
+  world, 163, 62, 3974:
+    sign: world, 163, 62, 3975
+    cooldown: 1
+    members:
+    - 9342b7b3-e57e-4cdd-82aa-38fa12a4c533

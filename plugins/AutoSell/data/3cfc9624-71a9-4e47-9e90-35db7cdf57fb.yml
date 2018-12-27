@@ -1,0 +1,6 @@
+notifications: false
+chests:
+  world_nether, -203, 152, 95:
+    sign: world_nether, -204, 152, 95
+    cooldown: 9
+    members: []

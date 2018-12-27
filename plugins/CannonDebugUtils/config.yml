@@ -1,0 +1,4 @@
+lose-tnt: false
+enable-notifications-on-spawn: true
+maximum-trackers: 5
+others-can-print-ticks: true
