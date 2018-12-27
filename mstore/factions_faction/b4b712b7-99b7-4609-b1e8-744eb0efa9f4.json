@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Triad",
+  "createdAtMillis": 1545853216649,
+  "invitations": {
+    "188365ce-404f-44dc-8ca9-86ee6ed5ca84": {
+      "inviterId": "ef11bfff-c439-4e28-b3c7-b7fc64c9bad9",
+      "creationMillis": 1545855427822
+    },
+    "63af23b9-9fd2-43b3-8648-4064cca023ab": {
+      "inviterId": "02917165-a34f-4b96-a706-6d7c043fa8b3",
+      "creationMillis": 1545853239006
+    }
+  }
+}

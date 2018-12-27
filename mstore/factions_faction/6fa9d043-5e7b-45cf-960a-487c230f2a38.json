@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "Psycho",
+  "createdAtMillis": 1545689133819,
+  "home": {
+    "w": "world",
+    "lx": 4520.0,
+    "ly": 65.0,
+    "lz": 2136.0,
+    "p": -1.5372038E-5,
+    "y": 180.01126
+  },
+  "invitations": {},
+  "relationWishes": {
+    "e26a7b88-f35b-4bc0-bfb3-e0aeee644774": "ALLY"
+  }
+}
